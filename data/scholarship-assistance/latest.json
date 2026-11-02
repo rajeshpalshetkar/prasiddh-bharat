@@ -1,0 +1,78 @@
+{
+  "section": "scholarship-assistance",
+  "name": "छात्रवृत्ति एवं शिक्षा सहायता",
+  "language": "hi",
+  "updated_at": "2026-11-02T17:31:45+00:00",
+  "items": [
+    {
+      "id": "nsp",
+      "title": "राष्ट्रीय छात्रवृत्ति पोर्टल (NSP) - केंद्र सरकार की छात्रवृत्तियाँ",
+      "source_name": "भारत सरकार",
+      "source_url": "https://scholarships.gov.in/",
+      "url": "https://scholarships.gov.in/",
+      "published": "",
+      "collected_at": "2026-11-02T17:31:45+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "mahadbt",
+      "title": "MahaDBT - महाराष्ट्र की छात्रवृत्ति एवं DBT योजनाएँ",
+      "source_name": "महाराष्ट्र शासन",
+      "source_url": "https://mahadbt.maharashtra.gov.in/",
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "published": "",
+      "collected_at": "2026-11-02T17:31:45+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "aicte",
+      "title": "AICTE - तकनीकी शिक्षा छात्रवृत्ति एवं सहायता",
+      "source_name": "AICTE",
+      "source_url": "https://www.aicte-india.org/",
+      "url": "https://www.aicte-india.org/",
+      "published": "",
+      "collected_at": "2026-11-02T17:31:45+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "ugc",
+      "title": "UGC - उच्च शिक्षा, छात्रवृत्ति एवं फेलोशिप जानकारी",
+      "source_name": "विश्वविद्यालय अनुदान आयोग",
+      "source_url": "https://www.ugc.gov.in/",
+      "url": "https://www.ugc.gov.in/",
+      "published": "",
+      "collected_at": "2026-11-02T17:31:45+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "education",
+      "title": "शिक्षा मंत्रालय - छात्रवृत्ति एवं शिक्षा संबंधी योजनाएँ",
+      "source_name": "भारत सरकार",
+      "source_url": "https://www.education.gov.in/",
+      "url": "https://www.education.gov.in/",
+      "published": "",
+      "collected_at": "2026-11-02T17:31:45+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "nta",
+      "title": "NTA - प्रवेश परीक्षाएँ एवं परीक्षा संबंधी सूचनाएँ",
+      "source_name": "राष्ट्रीय परीक्षा एजेंसी",
+      "source_url": "https://nta.ac.in/",
+      "url": "https://nta.ac.in/",
+      "published": "",
+      "collected_at": "2026-11-02T17:31:45+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "mahaedu",
+      "title": "महाराष्ट्र राज्य माध्यमिक एवं उच्च माध्यमिक शिक्षा मंडल",
+      "source_name": "महाराष्ट्र राज्य मंडळ",
+      "source_url": "https://mahahsscboard.in/",
+      "url": "https://mahahsscboard.in/",
+      "published": "",
+      "collected_at": "2026-11-02T17:31:45+00:00",
+      "language": "hi"
+    }
+  ]
+}
