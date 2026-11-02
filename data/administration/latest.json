@@ -1,7 +1,78 @@
 {
   "section": "administration",
-  "name": "प्रशासनिक सूचियाँ",
+  "name": "प्रशासनिक एवं महत्वपूर्ण सूचियाँ",
   "language": "hi",
-  "updated_at": "2026-11-02T16:03:34.722604+00:00",
-  "items": []
+  "updated_at": "2026-11-02T17:06:54.588Z",
+  "items": [
+    {
+      "id": "maha-gr",
+      "title": "महाराष्ट्र शासन निर्णय (GR) - विभागनिहाय शासन आदेश",
+      "source_name": "महाराष्ट्र शासन",
+      "source_url": "https://gr.maharashtra.gov.in/1145/Government-Resolutions",
+      "url": "https://gr.maharashtra.gov.in/1145/Government-Resolutions",
+      "published": "",
+      "collected_at": "2026-11-02T17:06:54.590Z",
+      "language": "hi"
+    },
+    {
+      "id": "eci",
+      "title": "भारत निर्वाचन आयोग - मतदाता एवं चुनाव संबंधी आधिकारिक जानकारी",
+      "source_name": "भारत निर्वाचन आयोग",
+      "source_url": "https://www.eci.gov.in/",
+      "url": "https://www.eci.gov.in/",
+      "published": "",
+      "collected_at": "2026-11-02T17:06:54.590Z",
+      "language": "hi"
+    },
+    {
+      "id": "voters-portal",
+      "title": "मतदाता सेवा पोर्टल - मतदाता सूची एवं मतदाता सेवाएँ",
+      "source_name": "भारत निर्वाचन आयोग",
+      "source_url": "https://voters.eci.gov.in/",
+      "url": "https://voters.eci.gov.in/",
+      "published": "",
+      "collected_at": "2026-11-02T17:06:54.590Z",
+      "language": "hi"
+    },
+    {
+      "id": "maha-gov",
+      "title": "महाराष्ट्र शासन - सरकारी विभाग, सेवा और महत्वपूर्ण घोषणाएँ",
+      "source_name": "महाराष्ट्र शासन",
+      "source_url": "https://maharashtra.gov.in/",
+      "url": "https://maharashtra.gov.in/",
+      "published": "",
+      "collected_at": "2026-11-02T17:06:54.590Z",
+      "language": "hi"
+    },
+    {
+      "id": "mpsc",
+      "title": "महाराष्ट्र लोकसेवा आयोग - परीक्षा, विज्ञापन और परिणाम",
+      "source_name": "महाराष्ट्र लोकसेवा आयोग",
+      "source_url": "https://mpsc.gov.in/",
+      "url": "https://mpsc.gov.in/",
+      "published": "",
+      "collected_at": "2026-11-02T17:06:54.590Z",
+      "language": "hi"
+    },
+    {
+      "id": "india-gov",
+      "title": "राष्ट्रीय पोर्टल - सरकारी सेवाएँ, दस्तावेज और नागरिक जानकारी",
+      "source_name": "भारत सरकार",
+      "source_url": "https://www.india.gov.in/",
+      "url": "https://www.india.gov.in/",
+      "published": "",
+      "collected_at": "2026-11-02T17:06:54.590Z",
+      "language": "hi"
+    },
+    {
+      "id": "maha-aaplesarkar",
+      "title": "आपले सरकार - महाराष्ट्र की ऑनलाइन नागरिक सेवाएँ",
+      "source_name": "महाराष्ट्र शासन",
+      "source_url": "https://aaplesarkar.mahaonline.gov.in/",
+      "url": "https://aaplesarkar.mahaonline.gov.in/",
+      "published": "",
+      "collected_at": "2026-11-02T17:06:54.590Z",
+      "language": "hi"
+    }
+  ]
 }
