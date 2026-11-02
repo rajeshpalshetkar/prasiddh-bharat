@@ -1,0 +1,29 @@
+<!-- प्रसिद्ध भारत | आज की प्रमुख घटनाएँ
+Blogger > Pages > New Page > HTML view में पूरा कोड पेस्ट करें।
+डेटा GitHub के current-affairs/latest.json से लोड होगा।
+-->
+<style>
+.pb-news-page{max-width:920px;margin:0 auto;padding:20px 14px;color:#202124;font-family:Arial,sans-serif;line-height:1.7}
+.pb-news-head{border-bottom:3px solid #c69b3c;margin-bottom:18px;padding-bottom:12px}
+.pb-news-head h1{margin:0;color:#17345b;font-size:27px;font-weight:800}
+.pb-news-head p{margin:7px 0 0;color:#687386;font-size:13px}
+.pb-news-list .pb-headline-item{padding:16px 2px;border-bottom:1px solid #e7eaf0}
+.pb-news-list .pb-headline-link{display:block;color:#17345b;font-size:18px;font-weight:700;text-decoration:none;line-height:1.5}
+.pb-news-list .pb-headline-link:hover{color:#9b7425;text-decoration:underline}
+.pb-news-list .pb-headline-meta{margin-top:6px;color:#737b88;font-size:12px}
+.pb-news-load{display:block;margin:24px auto 10px;padding:11px 25px;border:0;border-radius:5px;background:#17345b;color:#fff;font-size:14px;font-weight:700;cursor:pointer}
+.pb-news-load:hover{background:#244a78}
+.pb-news-load[hidden]{display:none}
+.pb-news-status{padding:12px 0;color:#6b7280;font-size:13px}
+@media(max-width:600px){.pb-news-page{padding:14px 10px}.pb-news-head h1{font-size:23px}.pb-news-list .pb-headline-link{font-size:16px}}
+</style>
+<div class="pb-news-page" data-pb-section data-data-url="https://raw.githubusercontent.com/rajeshpalshetkar/prasiddh-bharat/main/data/current-affairs/latest.json" data-page-size="20">
+  <header class="pb-news-head">
+    <h1>आज की प्रमुख घटनाएँ</h1>
+    <p>देश और महाराष्ट्र की महत्वपूर्ण घटनाओं, सरकारी घोषणाओं और जनहित से जुड़ी खबरों के ताज़ा अपडेट।</p>
+  </header>
+  <div class="pb-news-status" data-pb-status>अपडेट लोड हो रहे हैं...</div>
+  <div class="pb-news-list" data-pb-list></div>
+  <button class="pb-news-load" data-pb-load-more type="button" hidden>और समाचार देखें</button>
+</div>
+<script src="https://cdn.jsdelivr.net/gh/rajeshpalshetkar/prasiddh-bharat@main/assets/js/section-renderer.js"></script>
