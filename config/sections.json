@@ -1,0 +1,74 @@
+{
+  "language": "hi",
+  "timezone": "Asia/Kolkata",
+  "sections": [
+    {
+      "id": "headlines",
+      "name": "महत्वपूर्ण समाचार",
+      "enabled": true,
+      "update_interval_hours": 12,
+      "display_limit": 20,
+      "sources_file": "config/sources/headlines.json",
+      "data_file": "data/headlines/latest.json",
+      "mode": "headline_only"
+    },
+    {
+      "id": "current-affairs",
+      "name": "चालू घटनाएँ",
+      "enabled": true,
+      "update_interval_hours": 12,
+      "display_limit": 20,
+      "sources_file": "config/sources/current-affairs.json",
+      "data_file": "data/current-affairs/latest.json",
+      "mode": "curated_updates"
+    },
+    {
+      "id": "government-schemes",
+      "name": "सरकारी योजनाएँ",
+      "enabled": true,
+      "update_interval_hours": 24,
+      "display_limit": 20,
+      "sources_file": "config/sources/government-schemes.json",
+      "data_file": "data/government-schemes/latest.json",
+      "mode": "curated_updates"
+    },
+    {
+      "id": "jobs",
+      "name": "नौकरी अपडेट्स",
+      "enabled": true,
+      "update_interval_hours": 12,
+      "display_limit": 20,
+      "sources_file": "config/sources/jobs.json",
+      "data_file": "data/jobs/latest.json",
+      "mode": "curated_updates"
+    },
+    {
+      "id": "administration",
+      "name": "प्रशासनिक सूचियाँ",
+      "enabled": true,
+      "update_interval_hours": 48,
+      "display_limit": 100,
+      "sources_file": "config/sources/administration.json",
+      "data_file": "data/administration/latest.json",
+      "mode": "official_records_only"
+    },
+    {
+      "id": "important-lists",
+      "name": "महत्वपूर्ण सूचियाँ",
+      "enabled": true,
+      "update_interval_hours": 48,
+      "display_limit": 100,
+      "sources_file": "config/sources/important-lists.json",
+      "data_file": "data/important-lists/latest.json",
+      "mode": "curated_updates"
+    }
+  ],
+  "publishing": {
+    "language": "hi",
+    "automatic_updates": true,
+    "standalone_blog_posts": "draft_only",
+    "require_source_url": true,
+    "avoid_duplicates": true,
+    "do_not_invent_facts": true
+  }
+}
