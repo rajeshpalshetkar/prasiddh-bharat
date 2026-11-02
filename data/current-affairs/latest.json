@@ -2,6 +2,947 @@
   "section": "current-affairs",
   "name": "चालू घटनाएँ",
   "language": "hi",
-  "updated_at": "2026-11-02T16:03:34.721420+00:00",
-  "items": []
+  "updated_at": "2026-11-02T16:47:39.417367+00:00",
+  "items": [
+    {
+      "id": "92b588fc7b0b437bafea",
+      "title": "सुनेत्रा पवार ने NCP विधायकों की बुलाई तत्काल बैठक, मुंबई से लेकर दिल्ली तक हलचल तेज",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/maharashtra-ncp-chief-sunetra-pawar-meeting-party-mlas-after-amit-shah-delhi-visit-201793633826253.html",
+      "published": "Mon, 02 Nov 2026 21:17:45 +0530",
+      "collected_at": "2026-11-02T16:47:38.990294+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "5a7f6a9c73c59cd01e96",
+      "title": "सीने में दर्द की शिकायत के बाद शरद पवार पुणे के निजी अस्पताल में भर्ती, अब कैसी है तबीयत?",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/sharad-pawar-admitted-to-private-hospital-in-pune-after-complaining-of-chest-pain-201793625809358.html",
+      "published": "Mon, 02 Nov 2026 18:57:12 +0530",
+      "collected_at": "2026-11-02T16:47:38.990305+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "0d3b5364338be52a062f",
+      "title": "सुनेत्रा पवार को लेकर NCP में क्या चल रहा? अमित शाह से मुलाकात के बाद आया बड़ा बयान",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/what-happening-within-ncp-regarding-sunetra-pawar-big-statement-after-amit-shah-meeting-201793619941424.html",
+      "published": "Mon, 02 Nov 2026 17:36:03 +0530",
+      "collected_at": "2026-11-02T16:47:38.990309+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "cda265fd6382efe64d46",
+      "title": "दीया मिर्जा के प्रदूषण मुक्त दिवाली अभियान पर विवाद, मुंबई मेयर ऋतु तावड़े ने लगाया हिंदुत्व विरोध का आरोप",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/videos/national/mumbai-mayor-ritu-tawde-criticizes-dia-mirza-pollution-free-diwali-campaign-controversy-201793615391571.html",
+      "published": "Mon, 02 Nov 2026 16:03:24 +0530",
+      "collected_at": "2026-11-02T16:47:39.416592+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "2937d56e663d1dc84879",
+      "title": "RSS के घर में बैलेट पेपर पर जीत गई कांग्रेस, भाजपा से कहां हुई चूक? समझिए",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/congress-win-in-the-rss-own-backyard-agpur-pune-bjp-faltered-in-mlc-elections-201793331440384.html",
+      "published": "Fri, 30 Oct 2026 09:32:51 +0530",
+      "collected_at": "2026-11-02T16:47:38.990315+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "d33560f94a1d30047e89",
+      "title": "मुंबई में चक्रवाती तूफान 'अर्नब' का असर, बारिश तथा आंधी-तूफान आने के आसार",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/cyclone-arnab-to-impact-mumbai-with-rain-and-thunderstorms-expected-201793274754341.html",
+      "published": "Thu, 29 Oct 2026 17:27:39 +0530",
+      "collected_at": "2026-11-02T16:47:38.990318+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "ed77ff7d802f238ce99e",
+      "title": "नागपुर में हार से BJP की किरकिरी, शिंदे सेना पर फोड़ा ठीकरा; कांग्रेस को मिला मौका",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/maharashtra-mlc-election-result-2026-nagpur-congress-won-bjp-blames-shinde-201793263537855.html",
+      "published": "Thu, 29 Oct 2026 14:56:56 +0530",
+      "collected_at": "2026-11-02T16:47:38.990321+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "ee33466eca28f4ebd78a",
+      "title": "‘जानवर लाश खाएंगे तो सबक मिलेगा’, किसानों की आत्महत्या पर शिंदे के विधायक ने क्या कह दिया",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/maharashtra-farmer-suicide-shinde-sena-sanjay-gaikwad-controversial-statement-dont-attend-last-rites-201793246113675.html",
+      "published": "Thu, 29 Oct 2026 09:53:29 +0530",
+      "collected_at": "2026-11-02T16:47:38.990323+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "4b6ab0568a0246637df4",
+      "title": "मुंबई एयरपोर्ट पर नेटवर्क में आई तकनीकी खराबी, मची अफरातफरी; उड़ानों पर भी असर",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/technical-glitch-network-occurred-mumbai-chhatrapati-shivaji-maharaj-international-airport-201793116164634.html",
+      "published": "Tue, 27 Oct 2026 21:37:45 +0530",
+      "collected_at": "2026-11-02T16:47:38.990326+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "942fef1567ef2ddd55d5",
+      "title": "मुंबई में लोकल यात्रियों की बढ़ी मुसीबत, 80 ट्रेनें रद्द; रेलवे ट्रैक पर मिलीं 3 लाशें",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/why-mumbai-local-train-disruption-80-trains-cancelled-3-dead-latest-updates-201793069867400.html",
+      "published": "Tue, 27 Oct 2026 08:36:17 +0530",
+      "collected_at": "2026-11-02T16:47:38.990329+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "f9b8665d59b10c7e8d34",
+      "title": "वोटर लिस्ट में इतनी बड़ी कटौती? महाराष्ट्र SIR मामले में सुप्रीम कोर्ट ने चुनाव आयोग से मांगा जवाब",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/supreme-court-issued-notice-to-eci-on-petition-challenging-removal-of-names-from-electoral-roll-in-maharashtra-201793014779594.html",
+      "published": "Mon, 26 Oct 2026 17:19:12 +0530",
+      "collected_at": "2026-11-02T16:47:38.990331+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "0ff29cd0c7c051f06de8",
+      "title": "दिवाली से पहले तुकाराम मुंडे के FDA का ऐक्शन; 16 करोड़ रुपये का सामान जब्त, 68 लाइसेंस रद्द",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/maharashtra-fda-campaign-tukaram-mundhe-goods-worth-rs-16-crore-seized-diwali-2026-201792923746718.html",
+      "published": "Sun, 25 Oct 2026 16:13:37 +0530",
+      "collected_at": "2026-11-02T16:47:38.990334+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "0788a73d2d1344af107a",
+      "title": "टाइगर श्रॉफ पर फायरिंग के तार इंदौर तक पहुंचे, 11वां संदिग्ध दबोचा गया",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/madhya-pradesh/tiger-shroff-firing-11th-suspect-apprehended-from-indore-201792838789804.html",
+      "published": "Sat, 24 Oct 2026 16:31:02 +0530",
+      "collected_at": "2026-11-02T16:47:39.416599+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "e2263265f9d473c98c42",
+      "title": "Maharashtra: मुंबई में 500 करोड़ ऑडियो क्लिप विवाद, किशोरी पेडणेकर ने रामदास कदम पर बोला",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/videos/national/mumbai-shiv-sena-kishori-pednekar-on-500-crore-audio-clip-row-ramdas-kadam-allegations-aqi-201792836333090.html",
+      "published": "Sat, 24 Oct 2026 15:39:37 +0530",
+      "collected_at": "2026-11-02T16:47:39.416603+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "d25e29577104ec857c68",
+      "title": "Maharashtra: बुलढाणा में 2 करोड़ के डिजिटल अरेस्ट फ्रॉड का पर्दाफाश, 2 गिरफ्तार",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/videos/national/buldhana-cyber-police-arrest-two-kolkata-rs-2-crore-digital-arrest-fraud-senior-citizen-khamgaon-201792836088092.html",
+      "published": "Sat, 24 Oct 2026 15:33:58 +0530",
+      "collected_at": "2026-11-02T16:47:39.416650+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "5bde1c58504a4cf57b65",
+      "title": "मुंबई के पास तो समुद्र, फिर भी क्यों दिल्ली से अधिक जहरीली हुई हवा? जानें कारण",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/mumbai-has-sea-yet-its-air-has-become-more-toxic-than-delhi-know-the-reasons-201792811958372.html",
+      "published": "Sat, 24 Oct 2026 08:56:34 +0530",
+      "collected_at": "2026-11-02T16:47:38.990345+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "fc769d03e6b5ec67ccb0",
+      "title": "अग्निवीरों के लिए खुशखबरी, बिना परीक्षा दिए मिलेगी नौकरी; 250 को मिला जॉइनिंग लेटर",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/good-news-for-agniveers-get-a-job-without-taking-an-exam-250-have-received-joining-letters-201792809356544.html",
+      "published": "Sat, 24 Oct 2026 08:10:33 +0530",
+      "collected_at": "2026-11-02T16:47:38.990347+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "e9784eb0b494e33e9b45",
+      "title": "SIT से हो जांच: 500 CR वाले ऑडियो क्लिप मामले में जरांगे की नई मांग, CM फडणवीस को भी लपेटा",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/maratha-activist-manoj-jarange-seeks-sit-probe-in-rupees-500-crore-audio-clip-row-warns-cm-fadnavis-against-shielding-201792768096773.html",
+      "published": "Fri, 23 Oct 2026 20:44:39 +0530",
+      "collected_at": "2026-11-02T16:47:38.990350+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "02dba9b48f751de06e80",
+      "title": "मुंबई की मेयर को धमकी भरा मेल, निशाने पर दिलजीत दोसांझ का कॉन्सर्ट; अमिताभ बच्चन का भी नाम",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/mumbai-mayor-threat-email-diljit-dosanjh-concert-amitabh-bachchan-201792740553652.html",
+      "published": "Fri, 23 Oct 2026 13:07:03 +0530",
+      "collected_at": "2026-11-02T16:47:38.990353+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "83ab7d29bd01e54e29c7",
+      "title": "महाराष्ट्र MLC चुनाव: 5 सीटें और 182 उम्मीदवार, बगावत से बिगड़ा महायुति और MVA का चुनावी गणित",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/maharashtra-mlc-election-five-seats-182-candidates-mahayuti-mva-rebellion-201792675124661.html",
+      "published": "Thu, 22 Oct 2026 19:07:18 +0530",
+      "collected_at": "2026-11-02T16:47:38.990355+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "fa2be3ba7c103a7aaa83",
+      "title": "टाइगर श्रॉफ फायरिंग केस में चार आरोपी 26 अक्टूबर तक पुलिस हिरासत में भेजे गए, दो महिलाएं भी शामिल",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/tiger-shroff-firing-case-including-2-women-four-accused-sent-to-police-custody-till-october-26-201792670371118.html",
+      "published": "Thu, 22 Oct 2026 17:32:29 +0530",
+      "collected_at": "2026-11-02T16:47:38.990358+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "a467c09787371f0f9729",
+      "title": "'तुम चैन से कैसे सो सकते हो', मुंबई का प्रदूषण देख भड़का हाईकोर्ट; खूब लताड़ा",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/high-court-strict-on-mumbai-pollution-says-it-is-alarming-that-city-surpassed-delhi-pollution-201792652118823.html",
+      "published": "Thu, 22 Oct 2026 12:52:06 +0530",
+      "collected_at": "2026-11-02T16:47:38.990361+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "13166c788f020d1467db",
+      "title": "4-5 महीने में बड़ा सियासी उलटफेर? राज ठाकरे बोले- कुछ समय के लिए देश में पीएम ही नहीं होगा",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/raj-thackeray-warns-political-change-next-4-5-months-no-pm-post-attack-bjp-201792631564099.html",
+      "published": "Thu, 22 Oct 2026 06:51:54 +0530",
+      "collected_at": "2026-11-02T16:47:38.990363+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "3e46264667590cc1a9a1",
+      "title": "‘मुझे बेटा मानते थे, फिर ऐसा क्यों किया’, पत्नी-ससुर पर आरोप लगाकर कूद गया युवक",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/gujarat-man-konkankada-cliff-death-13-minute-video-wife-allegations-201792572689618.html",
+      "published": "Wed, 21 Oct 2026 14:47:16 +0530",
+      "collected_at": "2026-11-02T16:47:38.990366+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "b3c73a822c8163015eb7",
+      "title": "'डेड लेटर बॉक्स', 80000 रुपये और एन्क्रिप्टेड चैट; 2 लड़कियों ने कैसे टाइगर श्रॉफ के शूटर्स को दिए हथियार",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/ncr/tiger-shroff-firing-case-encrypted-chats-dead-letter-box-rs-80000-how-two-girls-supplied-weapons-to-shooters-201792568884955.html",
+      "published": "Wed, 21 Oct 2026 14:31:03 +0530",
+      "collected_at": "2026-11-02T16:47:39.416657+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "b565c2423371ba71b149",
+      "title": "'लॉरेंस बिश्नोई गैंग में 70 हजार लोग, फडणवीस में हिम्मत है तो...', उद्धव ठाकरे ने दी चुनौती",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/dussehra-rally-shiv-sena-ubt-chief-uddhav-thackeray-attack-tiger-shroff-lawrence-bishnoi-201792513484416.html",
+      "published": "Tue, 20 Oct 2026 22:03:12 +0530",
+      "collected_at": "2026-11-02T16:47:38.990371+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "2d03760435f14660e9dc",
+      "title": "शिवसेना की दशहरा रैली के 60 साल, आज 2 अलग-अलग आयोजन; बाल ठाकरे की विरासत की लड़ाई",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/shiv-sena-first-dussehra-rally-marking-60-years-two-separate-rallies-held-in-mumbai-201792499254493.html",
+      "published": "Tue, 20 Oct 2026 18:19:29 +0530",
+      "collected_at": "2026-11-02T16:47:38.990374+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "5a28b9b09c19c2b541ed",
+      "title": "'अराजकता की ओर ले जाने की कोशिश', संजय राउत के अल्बानिया वाले वीडियो पर हंगामा",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/bjp-reacts-statement-by-shiv-sena-ubt-sanjay-raut-protests-in-albania-athawale-ramdas-201792494223453.html",
+      "published": "Tue, 20 Oct 2026 16:54:42 +0530",
+      "collected_at": "2026-11-02T16:47:38.990376+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "5bb821d7d22470c469a5",
+      "title": "Tiger Shroff Firing : पकौड़ी ने पकड़वाया? टाइगर श्रॉफ पर फायरिंग के आरोपी कोटा पुलिस ने कैसे दबोचे",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/rajasthan/tiger-shroff-firing-case-how-three-shooters-caught-from-kota-railway-station-what-is-pakauri-matter-201792479436757.html",
+      "published": "Tue, 20 Oct 2026 12:53:09 +0530",
+      "collected_at": "2026-11-02T16:47:39.416661+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "4cadcba9c8bfad5062bd",
+      "title": "‘रिजीम चेंज की जरूरत’, टाइगर श्रॉफ पर हमले को लेकर राउत ने फडणवीस सरकार को घेरा",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/sanjay-raut-regime-change-slogan-devendra-fadnavis-tiger-shroff-lawrence-bishnoi-201792432665173.html",
+      "published": "Mon, 19 Oct 2026 23:49:14 +0530",
+      "collected_at": "2026-11-02T16:47:38.990381+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "b1517d44a315cd75bb49",
+      "title": "देवेंद्र फडणवीस ने टाइगर श्रॉफ से फोन पर की बात, आरोपियों को जल्द पकड़ने का दिया भरोसा",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/devendra-fadnavis-called-actor-tiger-shroff-firing-incident-accused-traced-apprehended-201792343765237.html",
+      "published": "Sun, 18 Oct 2026 23:06:20 +0530",
+      "collected_at": "2026-11-02T16:47:38.990384+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "deefd42b0beea1f77c45",
+      "title": "लॉरेंस बिश्नोई गैंग का गुर्गा अनिल पंडित कौन है? जिसने टाइगर श्रॉफ पर फायरिंग की ली जिम्मेदारी",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/lawrence-bishnoi-gang-claims-responsibility-firing-on-tiger-shroff-car-who-is-anil-pandit-201792335337378.html",
+      "published": "Sun, 18 Oct 2026 20:32:01 +0530",
+      "collected_at": "2026-11-02T16:47:38.990387+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "9753994bc5f27049fe56",
+      "title": "छात्राओं को मैसेज भेजता था प्रोफेसर, इस्लाम अपनाने और कुरान पढ़ने का डाला दबाव; भारी हंगामा",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/nagpur-campus-symbiosis-law-school-professor-messages-female-students-islam-quran-201792315472472.html",
+      "published": "Sun, 18 Oct 2026 15:14:45 +0530",
+      "collected_at": "2026-11-02T16:47:38.990389+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "00b1c08b55e8fba37ff9",
+      "title": "सरकार लोगों से मतदान करने और विरोध प्रदर्शन करने का अधिकार छीन रही है: उद्धव ठाकरे",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/uddhav-thackeray-says-government-is-snatching-away-people-right-to-vote-and-protest-201792256778942.html",
+      "published": "Sat, 17 Oct 2026 22:43:23 +0530",
+      "collected_at": "2026-11-02T16:47:38.990392+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "545a47d9e82ee0713952",
+      "title": "पुल किसके नाम पर होगा, नाना पाटेकर या स्मित मच्छार? महाराष्ट्र की राजनीति गरमाई",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/nana-patekar-or-smit-machchhar-mumbai-new-east-west-vidyavihar-bridg-political-war-201792237221366.html",
+      "published": "Sat, 17 Oct 2026 17:23:03 +0530",
+      "collected_at": "2026-11-02T16:47:38.990394+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "ea5e02c7dc1802191f0b",
+      "title": "बर्थडे पार्टी के लिए दोस्त को मार डाला, नाबालिगों ने ‘दृश्यम 3’ से लिया आइडिया",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/thane-class-12-students-kill-friend-drishyam-3-gold-chain-murder-201792209825820.html",
+      "published": "Sat, 17 Oct 2026 09:40:54 +0530",
+      "collected_at": "2026-11-02T16:47:38.990396+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "653022551771241b1838",
+      "title": "जब तक संविधान है, तब तक सत्ता परिवर्तन का एकमात्र रास्ता चुनाव है: फडणवीस",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/devendra-fadnavis-says-as-long-as-the-constitution-exists-elections-are-the-only-way-to-change-power-201792161471542.html",
+      "published": "Fri, 16 Oct 2026 20:13:21 +0530",
+      "collected_at": "2026-11-02T16:47:38.990399+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "53dc0016d740de12e0b1",
+      "title": "उल्हासनगर रेलवे स्टेशन पर एक व्यक्ति की गोली मारकर हत्या, हमलावर फरार",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/mumbai-man-shot-dead-at-ulhasnagar-railway-station-attacker-absconding-201791998233239.html",
+      "published": "Wed, 14 Oct 2026 23:07:48 +0530",
+      "collected_at": "2026-11-02T16:47:38.990402+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "b58a6af6f69ed2759bc5",
+      "title": "मंदिर में पूजा कर रही थी नाबालिग लड़की; अचानक घुस आया दरिंदा, करने लगा छेड़छाड़",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/contract-labourer-arrested-sexually-harass-a-minor-inside-temple-maharashtra-pune-201791911759699.html",
+      "published": "Tue, 13 Oct 2026 23:03:14 +0530",
+      "collected_at": "2026-11-02T16:47:38.990404+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "b106c7e55a9bf668ddba",
+      "title": "महाराष्ट्र FDA कमिश्नर का हो गया ट्रांसफर? तुकाराम मुंढे ने बताई असली सच्चाई",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/maharashtra-fda-commissioner-tukaram-mundhe-dismissed-reports-of-his-transfer-as-incorrect-201791828956963.html",
+      "published": "Mon, 12 Oct 2026 23:57:17 +0530",
+      "collected_at": "2026-11-02T16:47:38.990407+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "47474655e1b877fe5c2e",
+      "title": "मेरे हीरो शरजील इमाम या… इंडिया गठबंधन के प्रदर्शन के बीच इस नेता ने छोड़ी उद्धव ठाकरे की पार्टी",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/amid-the-india-alliance-protest-anand-dubey-quit-uddhav-thackeray-party-shiv-sena-201791807293666.html",
+      "published": "Mon, 12 Oct 2026 17:55:32 +0530",
+      "collected_at": "2026-11-02T16:47:38.990409+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "cbcad049a3545d14aec7",
+      "title": "तुकाराम मुंढ़े को मिली नई जिम्मेदारी, MPSC के सुधार के लिए बनाई गई समिति में शामिल",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/ias-officer-tukaram-mundhe-gets-a-new-responsibility-joins-committee-formed-to-reform-mpsc-201791747125625.html",
+      "published": "Mon, 12 Oct 2026 01:08:14 +0530",
+      "collected_at": "2026-11-02T16:47:38.990412+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "25c5ace44bcd2fec0320",
+      "title": "अभिजीत दीपके अपनी दादी के अंतिम संस्कार में शामिल नहीं हो पाए, दिल्ली पुलिस पर भड़के पेरेंट्स",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/abhijeet-dipke-parents-disappointment-inability-to-attend-his-grandmother-funeral-201791738003101.html",
+      "published": "Sun, 11 Oct 2026 22:48:47 +0530",
+      "collected_at": "2026-11-02T16:47:38.990415+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "cd9e3d60abb46ba6bb87",
+      "title": "प्रदर्शनकारियों को ले जा रही पुलिस गाड़ी पर चढ़ गए आदित्य ठाकरे, शिवसैनिकों ने खूब काटा गदर",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/mns-amit-thackeray-shiv-sena-ubt-aaditya-thackeray-protest-shivaji-park-police-station-201791731181411.html",
+      "published": "Sun, 11 Oct 2026 21:06:01 +0530",
+      "collected_at": "2026-11-02T16:47:38.990417+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "d727efd25af20778dbc4",
+      "title": "Who is Ajinkya Shinde: AAP के पूर्व वॉलंटियर से लेकर CJP के नए 'सेनापति' तक; जानें अजिंक्य शिंदे की कहानी",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/ncr/who-is-ajinkya-shinde-cjp-jantar-mantar-protest-leader-know-his-background-and-journey-from-aap-to-cjp-201791690546545.html",
+      "published": "Sun, 11 Oct 2026 10:14:40 +0530",
+      "collected_at": "2026-11-02T16:47:38.990420+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "e561cba846d41791157b",
+      "title": "'मेरी कोई औकात नहीं है', CJP प्रोटेस्ट में पहुंचे एक्टर इमरान खान पुलिस हिरासत में",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/actor-imran-khan-detained-by-police-arriving-in-mumbai-to-support-cjp-protest-201791636565918.html",
+      "published": "Sat, 10 Oct 2026 18:45:29 +0530",
+      "collected_at": "2026-11-02T16:47:38.990422+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "ad3bd01208b17b780e53",
+      "title": "पत्नी से तलाक के बाद दरिंदा बना पिता, नाबालिग बेटी को बनाया हवस का शिकार; 20 साल की जेल",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/maharashtra-palghar-court-sentenced-father-to-20-years-sexually-abusing-daughter-201791543650470.html",
+      "published": "Fri, 09 Oct 2026 16:39:09 +0530",
+      "collected_at": "2026-11-02T16:47:38.990427+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "bf977cd31d02382fb3ff",
+      "title": "बॉन्ड पर साइन करो, 10 अक्टूबर को दिल्ली मत जाना; लोगों से ये क्या करवा रही पुलिस?",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/cjp-protest-october-10-maharashtra-police-controversial-action-protesters-sign-bond-skip-delhi-201791517514684.html",
+      "published": "Fri, 09 Oct 2026 09:46:46 +0530",
+      "collected_at": "2026-11-02T16:47:38.990429+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "1927748f84d5984758e2",
+      "title": "IIT बॉम्बे में एक और 'कांड', हॉस्टल में अचानक लग गई आग; दो छात्र समेत 5 बुरी तरह घायल",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/iit-bombay-news-fire-in-hostel-5-injured-with-two-students-201791507012633.html",
+      "published": "Fri, 09 Oct 2026 06:45:25 +0530",
+      "collected_at": "2026-11-02T16:47:38.990432+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "cd1507ad81284baa586c",
+      "title": "महाराष्ट्र: हिंगोली में पेट्रोल पंप सील करना पड़ा महंगा, इंडियन ऑयल के कर्मचारी की चाकू मारकर हत्या",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/maharashtra-sealing-a-petrol-pump-in-hingoli-proves-costly-indian-oil-employee-stabbed-to-death-201791402607210.html",
+      "published": "Thu, 08 Oct 2026 01:25:53 +0530",
+      "collected_at": "2026-11-02T16:47:38.990434+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "0ab822ad0c27cc2a18e5",
+      "title": "Mumbai:दिशा सालियान केस में नाम आने पर गिरफ्तारी गलत, ठाकरे पिता-पुत्र पर बोलीं शाइना एनसी",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/videos/bihar/shaina-nc-on-disha-salian-case-uddhav-aaditya-thackeray-arrest-remark-sanjay-raut-201791007293943.html",
+      "published": "Sat, 03 Oct 2026 11:39:00 +0530",
+      "collected_at": "2026-11-02T16:47:39.416666+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "bdbd9f35cda51e0f0075",
+      "title": "'ड्रामेबाजी कर रहे...', अभिजीत दीपके पर भड़के लोग, मुंबई में CJP के खिलाफ होने लगा प्रदर्शन",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/mumbai/mumbai-cjp-protest-against-abhijeet-dipke-cockroach-janata-party-gyanesh-kumar-201790941338126.html",
+      "published": "Fri, 02 Oct 2026 17:24:58 +0530",
+      "collected_at": "2026-11-02T16:47:39.416671+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "d66f5e3ae2eaa8d39620",
+      "title": "आखिरी कॉल में एग्जाम की बात, नकल का भी जिक्र... IIT-बॉम्बे छात्र साहिल की मौत में नया खुलासा!",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/mumbai/iit-bombay-suicide-case-sahil-wakode-said-he-was-caught-cheating-on-their-last-call-201790588912108.html",
+      "published": "Mon, 28 Sep 2026 15:30:08 +0530",
+      "collected_at": "2026-11-02T16:47:39.416674+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "bd9afd92cb99fb67031b",
+      "title": "मुंबई के कोस्टल रोड पर BMW हादसा: तीन लोगों की मौत, एक गंभीर घायल, घायल बेहोश, तारदेओ पुलिस जांच में",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/videos/mumbai-coastal-road-bmw-accident-three-killed-one-critically-injured-police-probe-on-201789886955272.html",
+      "published": "Sun, 20 Sep 2026 12:22:58 +0530",
+      "collected_at": "2026-11-02T16:47:39.416677+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "b662e00c366f269e2a04",
+      "title": "मुंबई के टॉप-5 रेस्टोरेंट: ₹90 की थालीपीठ, पनीर लाहौरी ₹240, चिली चिकन ₹700",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/business/mumbai-s-top-5-restaurants-thalipeeth-for-rs-90-paneer-lahori-for-rs-240-chilli-chicken-for-rs-700-201788748723108.html",
+      "published": "Mon, 07 Sep 2026 08:24:44 +0530",
+      "collected_at": "2026-11-02T16:47:39.416680+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "e53fa14045da1c1cfe47",
+      "title": "चलती ट्रेन में फिर दीपक जलाने की घटना; उतारा गया शख्स, किन धाराओं में केस?",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/ncr/indian-railways-say-about-action-on-man-who-lit-lamp-on-his-berth-in-moving-train-201788284086003.html",
+      "published": "Tue, 01 Sep 2026 23:17:59 +0530",
+      "collected_at": "2026-11-02T16:47:39.416683+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "5aea02b078ae4f7e1e24",
+      "title": "मराठी नहीं आने पर ऑटो चालकों का लाइसेंस रद्द ना करें, फडणवीस को गिरिराज की चिट्ठी",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/bihar/giriraj-singh-wrote-letter-to-maharashtra-cm-devendra-fadnavis-and-appeal-to-not-make-pressure-for-marathi-language-201787727584664.html",
+      "published": "Wed, 26 Aug 2026 13:12:38 +0530",
+      "collected_at": "2026-11-02T16:47:39.416685+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "15206b25a0c16c17ce71",
+      "title": "क्या होता है एनालॉग पनीर, चीज और मक्खन? गुजरात सरकार ने लगाया बैन, दी चेतावनी",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/gujarat/what-is-analogue-cheese-and-butter-gujarat-govt-imposes-ban-and-issues-warning-201785950395779.html",
+      "published": "Wed, 05 Aug 2026 23:09:53 +0530",
+      "collected_at": "2026-11-02T16:47:39.416688+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "d59e03107f6102512bcf",
+      "title": "मुंबई पुलिस में ₹6.4 करोड़ का सैलरी घोटाला! 10 'फर्जी कर्मचारी' निकले सिर्फ कागजों पर",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/mumbai/mumbai-police-rs-6-4-crore-salary-scam-10-fake-employees-were-on-paper-201785853516082.html",
+      "published": "Tue, 04 Aug 2026 20:03:11 +0530",
+      "collected_at": "2026-11-02T16:47:39.416690+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "433b60f56704c8380e0a",
+      "title": "कॉकरोच पार्टी की फंडिंग और अभिजीत दीपके के पिता की आर्थिक स्थिति की जांच की मांग, EC को लेटर",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/gujarat/abhijeet-dipke-father-financial-condition-should-be-investigated-rti-activist-demanded-201785608583997.html",
+      "published": "Sun, 02 Aug 2026 00:08:41 +0530",
+      "collected_at": "2026-11-02T16:47:39.416693+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "fbf1a2155f70db1edca0",
+      "title": "अन्ना हजारे का पीएम मोदी को लेटर; सरकार को नसीहत, धर्मेंद्र प्रधान के इस्तीफे पर बड़ी बात",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/ncr/cjp-protest-anna-hazare-letter-to-pm-narendra-modi-saying-dialogue-always-preferable-201784732427747.html",
+      "published": "Wed, 22 Jul 2026 20:43:06 +0530",
+      "collected_at": "2026-11-02T16:47:39.416696+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "cf411a7db748108e6e5d",
+      "title": "'दाउद इब्राहिम ने ताज होटल में बम लगाया है' मुंबई पुलिस को आए फोन कॉल से मचा हडकंप",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/dawood-has-planted-a-bomb-at-taj-hotel-panic-ensued-after-mumbai-police-received-a-hoax-call-201783832351117.html",
+      "published": "Sun, 12 Jul 2026 10:47:21 +0530",
+      "collected_at": "2026-11-02T16:47:39.416698+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "6793c4b20139dfd867bf",
+      "title": "नए घर में शिफ्ट होने से ठीक पहले ही उजड़ा परिवार, मुंबई में इमारत ढहने से बस्ती के 5 लोगों की मौत",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/uttar-pradesh/five-members-of-a-family-from-basti-district-died-when-a-building-collapsed-in-mumbai-201783470501418.html",
+      "published": "Wed, 08 Jul 2026 06:34:39 +0530",
+      "collected_at": "2026-11-02T16:47:39.416701+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "fa3769809dae2079c053",
+      "title": "मुंबई में भारी बारिश के बीच दर्दनाक हादसा, खुले मैनहोल में गिरा शख्स; मौत",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/mumbai-rains-man-falls-into-manhole-in-sakinaka-area-dies-201782987383845.html",
+      "published": "Thu, 02 Jul 2026 15:56:14 +0530",
+      "collected_at": "2026-11-02T16:47:39.416704+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "888b9150b62b5716edea",
+      "title": "क्या है उद्धव ठाकरे का 'प्लान 4'? बागियों को चौतरफा घेरने की तैयारी में शिवसेना UBT",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/mumbai/what-is-uddhav-thackeray-s-plan-4-shiv-sena-ubt-prepares-to-surround-the-rebels-from-all-sides-201782719587045.html",
+      "published": "Mon, 29 Jun 2026 13:30:23 +0530",
+      "collected_at": "2026-11-02T16:47:39.416706+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "5d2cf5e6cc524ce73c24",
+      "title": "दिल्ली-मुंबई एक्सप्रेसवे के वडोदरा-मुंबई सेक्शन का अब कितना बचा काम, कब होगी ओपनिंग?",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/vadodara-mumbai-section-of-delhi-mumbai-expressway-how-much-work-remains-and-when-will-it-open-201782713725701.html",
+      "published": "Mon, 29 Jun 2026 12:47:57 +0530",
+      "collected_at": "2026-11-02T16:47:39.416709+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "59783d17f000c0c78883",
+      "title": "बेबी पिंक साड़ी में डिंपल तो सिंपल सूट में अदिति यादव; रेवती सुले के रिसेप्शन में मां-बेटी का क्लासी लुक वायरल",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/uttar-pradesh/dimple-yadav-in-a-baby-pink-saree-and-her-aditi-in-a-simple-suit-at-revati-sule-reception-201782115729844.html",
+      "published": "Mon, 22 Jun 2026 14:15:21 +0530",
+      "collected_at": "2026-11-02T16:47:39.416714+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "23dd64ae9c4570d638e4",
+      "title": "पीएम मोदी पर संजय राउत के 'औरंगजेब' वाले बयान पर उबाल; BJP बोली- पागल हो गए",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/sanjay-raut-aurangzeb-remark-on-pm-modi-bjp-says-he-has-his-mind-201781363388721.html",
+      "published": "Sat, 13 Jun 2026 21:17:21 +0530",
+      "collected_at": "2026-11-02T16:47:39.416716+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "6516ddf6a15d8344e021",
+      "title": "सूरत में महाराष्ट्र निगम की 2 बसें टकराईं; एक धू-धू कर जली, अब तक 7 मौतें, 40 घायल",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/gujarat/gujarat-bus-accident-in-surat-maharashtra-2-state-run-buses-collide-many-killed-201780405200525.html",
+      "published": "Tue, 02 Jun 2026 18:42:22 +0530",
+      "collected_at": "2026-11-02T16:47:39.416719+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "2afa7957a5e978ec3cb5",
+      "title": "साउथ से बॉलीवुड तक, बड़े-बड़े स्टार्स इस डर से खटखटाते हैं दिल्ली HC का दरवाजा; जानें पूरी कहानी",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/ncr/why-celebrities-approach-delhi-high-court-for-ai-deepfake-and-personality-rights-protection-201780311724495.html",
+      "published": "Mon, 01 Jun 2026 17:42:07 +0530",
+      "collected_at": "2026-11-02T16:47:39.416722+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "7a75a2a252d7a9fb59d1",
+      "title": "₹3 वाली भिंडी ₹80 किलो, कहीं तोरई 6 तो कहीं 60 रुपये बिक रही, हरी सब्जियों के भाव से गांव हैरान और शहर परेशान",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/business/bhindi-usually-priced-at-rs-3-is-now-sold-at-rs-80-per-kg-torai-rs-6-to-60-villagers-astonished-and-cities-distressed-201779869432818.html",
+      "published": "Wed, 27 May 2026 14:05:36 +0530",
+      "collected_at": "2026-11-02T16:47:39.416724+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "9aa794490e22c77d32f2",
+      "title": "अजमेर से मुंबई और दौंड के लिए 3 साप्ताहिक ट्रेनों को मंजूरी, क्या रहेगा इनका रूट?",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/rajasthan/indian-railways-3-weekly-trains-from-ajmer-to-mumbai-and-daund-know-their-routes-201778748966805.html",
+      "published": "Thu, 14 May 2026 14:55:14 +0530",
+      "collected_at": "2026-11-02T16:47:39.416727+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "e0b35a189ae03b4eee7d",
+      "title": "कॉर्डेलिया क्रूज केस में समीर वानखेड़े को झटका: हाई कोर्ट ने कार्रवाई को दी मंजूरी",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/cordelia-cruise-case-high-court-approves-action-against-sameer-wankhede-201772184958841.html",
+      "published": "Fri, 27 Feb 2026 15:13:04 +0530",
+      "collected_at": "2026-11-02T16:47:39.416729+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "bfc2bed06583a43fa663",
+      "title": "अब नहीं चलेगा 'खाकी स्वैग', मुंबई पुलिस ने वर्दी में रील, व्लॉग बनाने पर लगाई रोक",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/mumbai/mumbai-police-has-banned-the-making-of-reels-and-vlogs-in-uniform-action-will-be-taken-if-they-do-not-comply-201771763867144.html",
+      "published": "Sun, 22 Feb 2026 18:11:58 +0530",
+      "collected_at": "2026-11-02T16:47:39.416732+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "073677be5bc924aa5873",
+      "title": "दिल्ली-मुुंबई एक्सप्रेसवे पर आपस में बात करेंगी कारें, दिसंबर तक शुरू होगा 6G सेंसर नेटवर्क का ट्रायल",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/ncr/delhi-mumbai-expressway-6g-sensor-network-trial-to-begin-by-december-know-its-benefits-201771285791073.html",
+      "published": "Tue, 17 Feb 2026 05:54:26 +0530",
+      "collected_at": "2026-11-02T16:47:39.416734+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "64c8f6eedadd0464fad6",
+      "title": "रितु तावड़े का निर्विरोध मुंबई का मेयर चुने जाने का रास्ता साफ, कौन होगा उपमहापौर",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/mumbai/ritu-tawde-may-get-unopposed-bmc-mayor-who-will-be-her-deputy-201770484832473.html",
+      "published": "Sat, 07 Feb 2026 22:59:11 +0530",
+      "collected_at": "2026-11-02T16:47:39.416737+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "59d4ec60e5207b5d212c",
+      "title": "विदेश में ट्रेनिंग, स्वभाव से चुलबुली; कैसी थीं को-पायलट शांभवी? पड़ोसी और दादी बताया",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/madhya-pradesh/ajit-pawar-plane-crash-copilot-shambhavi-neighbors-and-grandmother-share-memories-201769609388748.html",
+      "published": "Wed, 28 Jan 2026 20:06:42 +0530",
+      "collected_at": "2026-11-02T16:47:39.416739+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "6f3d7db518944c50ce53",
+      "title": "अजित पवार प्लेन क्रैश की DGCA करे जांच, दिग्विजय सिंह बोले- कौन कर रहा मेंटिनेंस?",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/madhya-pradesh/digvijaya-singh-says-dgca-to-conduct-investigation-of-ajit-pawar-plane-crash-201769600843234.html",
+      "published": "Wed, 28 Jan 2026 17:36:44 +0530",
+      "collected_at": "2026-11-02T16:47:39.416742+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "13cb65a0145c38f3512b",
+      "title": "क्रैश से पहले मुंबई-सूरत के तीन चक्कर, अजित पवार वाली प्लेन का आखिरी बारामती सफर",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/ajit-pawar-ill-fated-vt-ssk-plane-three-mumbai-surat-trips-last-flight-before-crash-in-baramati-201769592440376.html",
+      "published": "Wed, 28 Jan 2026 16:21:07 +0530",
+      "collected_at": "2026-11-02T16:47:39.416744+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "93065e22e36e27cd2570",
+      "title": "अजित पवार का प्लेन क्यों हुआ क्रैश, विमान कंपनी VSR को क्या आशंका",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/ajit-pawar-plane-crash-vsr-company-says-low-visibility-may-be-reason-201769578309822.html",
+      "published": "Wed, 28 Jan 2026 11:11:31 +0530",
+      "collected_at": "2026-11-02T16:47:39.416747+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "4e34a7b657e5100665e9",
+      "title": "किसी के बाप का.., मुंबई में बिहार भवन पर राज ठाकरे की मनसे के नेता को नीतीश के मंत्री का जवाब",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/bihar/kisi-ke-baap-ka-din-hai-nitish-minister-ashok-choudhary-reacts-on-raj-thackeray-mns-leader-on-bihar-bhawan-mumbai-201769070108697.html",
+      "published": "Thu, 22 Jan 2026 14:16:20 +0530",
+      "collected_at": "2026-11-02T16:47:39.416750+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "6a0a79e7ee346ef89e44",
+      "title": "मुंबई में बिहार भवन नहीं बनने देंगे; राज ठाकरे की मनसे के नेता की नीतीश सरकार को धमकी",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/bihar/raj-thackeray-mns-leader-warns-nitish-government-threaten-not-to-allow-bihar-bhawan-in-mumbai-201768997976878.html",
+      "published": "Wed, 21 Jan 2026 18:00:51 +0530",
+      "collected_at": "2026-11-02T16:47:39.416752+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "f18704d04fa2222c9595",
+      "title": "गुजरात के वेरावल से बान्द्रा टर्मिनस के लिए स्पेशल ट्रेन का ऐलान, कहां-कहां रुकेगी?",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/gujarat/indian-railways-special-train-from-veraval-gujarat-to-bandra-terminus-know-detail-201768992432016.html",
+      "published": "Wed, 21 Jan 2026 16:34:56 +0530",
+      "collected_at": "2026-11-02T16:47:39.416755+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "61320adae18cdda24f9b",
+      "title": "मुंबई मेयर के लिए टीम उद्धव करेगी खेला, या यूं ही कर रही झमेला; संजय राउत क्यों बोले ‘वेट एंड वॉच’",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/mumbai/wait-and-watch-sanjay-raut-on-mumbai-mayor-what-is-big-game-of-shiv-sena-ubt-201768836309349.html",
+      "published": "Mon, 19 Jan 2026 21:00:25 +0530",
+      "collected_at": "2026-11-02T16:47:39.416757+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "05ec172455dc39ed87f8",
+      "title": "मुंबई मेयर के लिए बन रहे नए समीकरण? डिप्टी सीएम एकनाथ शिंदे ने कर दिया क्लियर",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/mumbai/shinde-dismisses-buzz-of-new-political-equations-says-mumbai-will-get-mahayuti-mayor-201768826068883.html",
+      "published": "Mon, 19 Jan 2026 18:09:00 +0530",
+      "collected_at": "2026-11-02T16:47:39.416760+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "fe9cb6f7b7d9ca1a5352",
+      "title": "शिंदे और उनके पार्षद नहीं चाहते भाजपा का मेयर, संजय राउत का सनसनीखेज दावा; BMC में बढ़ा सस्पेंस",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/mumbai/sanjay-raut-claims-eknath-shinde-and-his-men-do-not-want-bjp-mayor-in-mumbai-bmc-201768752178537.html",
+      "published": "Sun, 18 Jan 2026 21:39:49 +0530",
+      "collected_at": "2026-11-02T16:47:39.416762+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "f9c720d74e66ef0f0bfc",
+      "title": "पार्षदों को होटल में रखने की वजह…शिवसेना ने दी सफाई; क्या बोली प्रवक्ता",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/mumbai/we-have-a-workshop-shiv-sena-spokesperson-on-new-corporators-brought-to-a-hotel-201768742625027.html",
+      "published": "Sun, 18 Jan 2026 19:02:47 +0530",
+      "collected_at": "2026-11-02T16:47:39.416766+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "ed3cb6c76fd7b374910a",
+      "title": "मुंबई का ‘किंग’ कौन, मेयर के लिए उद्धव करेंगे खेल? भाजपा-शिंदे को किस बात की टेंशन",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/mumbai/mumbai-mayor-how-number-game-play-big-role-in-bmc-shinde-cautious-bjp-in-tension-201768730311281.html",
+      "published": "Sun, 18 Jan 2026 15:37:44 +0530",
+      "collected_at": "2026-11-02T16:47:39.416768+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "54e591874cd021bb24f8",
+      "title": "BMC के नतीजे आते ही सियासी खेल शुरू, शिंदे ने नवनिर्वाचित पार्षदों को होटल में किया शिफ्ट",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/mumbai/soon-after-bmc-results-eknath-shinde-moves-all-corporators-to-hotel-uddhav-reacts-201768651217401.html",
+      "published": "Sat, 17 Jan 2026 17:33:39 +0530",
+      "collected_at": "2026-11-02T16:47:39.416771+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "1c88e937c9dc1634c3b0",
+      "title": "BMC चुनाव में डॉन की बेटियों का कैसा रहा अंजाम, अरुण गवली को लगा डबल झटका",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/mumbai/bmc-polls-arun-gawli-daughters-geeta-and-yogita-result-big-setback-for-ex-don-201768581405343.html",
+      "published": "Fri, 16 Jan 2026 22:15:28 +0530",
+      "collected_at": "2026-11-02T16:47:39.416775+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "c4eb90e2fba735bcfc6f",
+      "title": "राज ठाकरे को महंगा पड़ा रसमलाई वाला तंज, नतीजों के बाद भाजपा ने उड़ाया मजाक",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/mumbai/raj-thackeray-rasmalai-jibe-in-bmc-elections-proved-costly-with-bjp-mocking-him-after-results-201768579082515.html",
+      "published": "Fri, 16 Jan 2026 21:34:39 +0530",
+      "collected_at": "2026-11-02T16:47:39.416777+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "6b28593cb7dfa93e04b7",
+      "title": "महाराष्ट्र निकाय चुनाव Result: भाजपा की आंधी में तीन शहरों में कांग्रेस की बमबम, चौथे में तो सीधी टक्कर",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/mumbai/maharashtra-nikay-chunav-amid-bjp-mega-victory-congress-leading-in-these-municipalities-amravati-bhiwandi-chunav-result-201768551635362.html",
+      "published": "Fri, 16 Jan 2026 14:00:07 +0530",
+      "collected_at": "2026-11-02T16:47:39.416780+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "afa6baa23fa16a145faa",
+      "title": "'ठाकरे भाई अब घर पर रहें, वर्क फ्रॉम होम करें'; BMC चुनाव के रुझानों पर शिवसेना का तंज",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/mumbai/maharashtra-civic-body-results-shiv-sena-leader-shaina-nc-says-thackeray-brothers-work-from-home-201768549740790.html",
+      "published": "Fri, 16 Jan 2026 13:28:00 +0530",
+      "collected_at": "2026-11-02T16:47:39.416783+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "513549baea3b2e282a67",
+      "title": "फिर तो बंद ही कर दो राजनीति; रुझान देखकर अपने ही INDIA अलायंस पर भड़के नेता",
+      "source_name": "लाइव हिन्दुस्तान - मुंबई",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/mumbai/bmc-election-result-uddhav-thackeray-leader-attack-india-alliance-201768541985787.html",
+      "published": "Fri, 16 Jan 2026 11:14:23 +0530",
+      "collected_at": "2026-11-02T16:47:39.416785+00:00",
+      "language": "hi"
+    }
+  ]
 }
