@@ -1,3 +1,25 @@
 {
-  "sources": []
+  "sources": [
+    {
+      "name": "PIB हिंदी - सरकारी एवं राष्ट्रीय घटनाएँ",
+      "feed_url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=2&Regid=3",
+      "enabled": true,
+      "attribution": "पत्र सूचना कार्यालय (PIB)",
+      "usage_note": "केवल शीर्षक, स्रोत और मूल लिंक दिखाएँ। आधिकारिक सूचना का संदर्भ स्पष्ट रखें।"
+    },
+    {
+      "name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "feed_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "enabled": true,
+      "attribution": "लाइव हिन्दुस्तान",
+      "usage_note": "केवल शीर्षक, स्रोत और मूल लिंक दिखाएँ।"
+    },
+    {
+      "name": "लाइव हिन्दुस्तान - मुंबई",
+      "feed_url": "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+      "enabled": true,
+      "attribution": "लाइव हिन्दुस्तान",
+      "usage_note": "केवल शीर्षक, स्रोत और मूल लिंक दिखाएँ।"
+    }
+  ]
 }
