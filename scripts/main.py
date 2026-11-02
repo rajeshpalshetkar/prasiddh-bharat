@@ -3,6 +3,7 @@ import hashlib
 import logging
 import os
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -75,6 +76,20 @@ def fetch_feed(source):
     return items
 
 
+def sort_timestamp(item):
+    value = item.get("published") or item.get("collected_at") or ""
+    try:
+        parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except ValueError:
+        try:
+            parsed = parsedate_to_datetime(value)
+        except (TypeError, ValueError, OverflowError):
+            parsed = datetime.min.replace(tzinfo=timezone.utc)
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return parsed.timestamp()
+
+
 def run_section(section):
     source_path = ROOT / section["sources_file"]
     output_path = ROOT / section["data_file"]
@@ -100,7 +115,7 @@ def run_section(section):
 
     ordered = sorted(
         merged.values(),
-        key=lambda x: (x.get("published") or x.get("collected_at") or ""),
+        key=sort_timestamp,
         reverse=True,
     )
     write_json(output_path, {
