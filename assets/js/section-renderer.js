@@ -62,8 +62,9 @@
       const payload = await response.json();
       items = Array.isArray(payload.items) ? payload.items : [];
       items.sort(function (a, b) {
-        return String(b.published || b.collected_at || "")
-          .localeCompare(String(a.published || a.collected_at || ""));
+        const dateA = Date.parse(a.published || a.collected_at || "") || 0;
+        const dateB = Date.parse(b.published || b.collected_at || "") || 0;
+        return dateB - dateA;
       });
       renderNext();
     } catch (error) {
