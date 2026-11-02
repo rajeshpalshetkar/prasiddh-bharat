@@ -118,11 +118,26 @@ def run_section(section):
 def main():
     config = read_json(CONFIG_FILE, {"sections": []})
     only_section = os.getenv("SECTION_ID")
+    now = datetime.now(timezone.utc)
     for section in config.get("sections", []):
         if not section.get("enabled", False):
             continue
         if only_section and section["id"] != only_section:
             continue
+        output_path = ROOT / section["data_file"]
+        previous = read_json(output_path, {})
+        previous_updated = previous.get("updated_at")
+        interval = int(section.get("update_interval_hours", 12))
+        if previous_updated and not only_section:
+            try:
+                last_run = datetime.fromisoformat(previous_updated.replace("Z", "+00:00"))
+                elapsed_hours = (now - last_run).total_seconds() / 3600
+                if elapsed_hours < interval:
+                    logging.info("Skipping %s: next update due in %.1f hours",
+                                 section["id"], interval - elapsed_hours)
+                    continue
+            except ValueError:
+                logging.warning("Could not parse previous update time for %s; running now", section["id"])
         run_section(section)
 
 
