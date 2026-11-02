@@ -1,0 +1,52 @@
+name: Publish ChatGPT Drafts to Blogger
+
+on:
+  workflow_dispatch:
+    inputs:
+      draft_file:
+        description: "Optional path, e.g. drafts/queue/example.json. Leave blank to process all queued drafts."
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: prasiddh-bharat-draft-publisher
+  cancel-in-progress: false
+
+jobs:
+  publish-as-draft:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Send queued articles to Blogger as Draft
+        env:
+          BLOGGER_TOKEN_JSON: ${{ secrets.BLOGGER_TOKEN_JSON }}
+          BLOGGER_BLOG_ID: ${{ secrets.BLOGGER_BLOG_ID }}
+          DRAFT_FILE: ${{ inputs.draft_file }}
+        run: python scripts/publish_drafts.py
+
+      - name: Commit draft queue changes
+        run: |
+          if [[ -n "$(git status --porcelain drafts/)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add drafts/
+            git commit -m "chore: archive Blogger draft submissions"
+            git push
+          else
+            echo "No draft queue changes."
+          fi
