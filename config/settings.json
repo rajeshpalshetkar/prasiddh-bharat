@@ -1,0 +1,22 @@
+{
+  "site_name": "Prasiddh Bharat",
+  "site_url": "https://www.prasiddhbharat.com/",
+  "language": "hi",
+  "timezone": "Asia/Kolkata",
+  "scheduler_cron_utc": "17 */12 * * *",
+  "default_page_size": 20,
+  "storage": "github_json",
+  "blogger": {
+    "enabled": false,
+    "blog_id_secret": "BLOGGER_BLOG_ID",
+    "token_secret": "BLOGGER_TOKEN_JSON",
+    "standalone_posts_mode": "draft_only"
+  },
+  "rules": {
+    "only_https_sources": true,
+    "require_source_url": true,
+    "preserve_history": true,
+    "deduplicate_by_url": true,
+    "auto_publish_unverified_administrative_changes": false
+  }
+}
