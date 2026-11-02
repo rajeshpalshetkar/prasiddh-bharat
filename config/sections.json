@@ -61,6 +61,16 @@
       "sources_file": "config/sources/important-lists.json",
       "data_file": "data/important-lists/latest.json",
       "mode": "curated_updates"
+    },
+    {
+      "id": "scholarship-assistance",
+      "name": "छात्रवृत्ति एवं शिक्षा सहायता",
+      "enabled": true,
+      "update_interval_hours": 24,
+      "display_limit": 100,
+      "sources_file": "config/sources/scholarship-assistance.json",
+      "data_file": "data/scholarship-assistance/latest.json",
+      "mode": "official_directory"
     }
   ],
   "publishing": {
