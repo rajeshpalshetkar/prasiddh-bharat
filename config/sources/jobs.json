@@ -1,3 +1,11 @@
 {
-  "sources": []
+  "sources": [
+    {
+      "name": "Indian Government Jobs - भर्ती अपडेट्स (गैर-सरकारी संकलन)",
+      "feed_url": "https://www.indgovtjobs.in/feeds/posts/default?alt=rss",
+      "enabled": true,
+      "attribution": "Indian Government Jobs",
+      "usage_note": "यह गैर-सरकारी भर्ती सूचना संकलन है। केवल शीर्षक, स्रोत और मूल लिंक दिखाएँ। पात्रता, शुल्क और अंतिम तारीख आधिकारिक भर्ती अधिसूचना पर जाँचने की सलाह दें।"
+    }
+  ]
 }
