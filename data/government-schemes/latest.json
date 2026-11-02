@@ -2,6 +2,37 @@
   "section": "government-schemes",
   "name": "सरकारी योजनाएँ",
   "language": "hi",
-  "updated_at": "2026-11-02T16:03:34.721856+00:00",
-  "items": []
+  "updated_at": "2026-11-02T16:52:00+00:00",
+  "items": [
+    {
+      "id": "myscheme-national-directory",
+      "title": "केंद्र और सभी राज्यों की सरकारी योजनाएँ देखें",
+      "source_name": "भारत सरकार - myScheme",
+      "source_url": "https://www.myscheme.gov.in/",
+      "url": "https://www.myscheme.gov.in/",
+      "published": "",
+      "collected_at": "2026-11-02T16:52:00+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "india-gov-schemes-directory",
+      "title": "भारत सरकार के राष्ट्रीय पोर्टल पर सरकारी योजनाओं की सूची",
+      "source_name": "राष्ट्रीय पोर्टल ऑफ इंडिया",
+      "source_url": "https://www.india.gov.in/my-government/schemes",
+      "url": "https://www.india.gov.in/my-government/schemes",
+      "published": "",
+      "collected_at": "2026-11-02T16:52:00+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "maharashtra-schemes-district",
+      "title": "महाराष्ट्र की सरकारी योजनाएँ और लाभार्थी जानकारी",
+      "source_name": "महाराष्ट्र शासन - जिला प्रशासन",
+      "source_url": "https://thane.nic.in/en/scheme/maha-schemes/",
+      "url": "https://thane.nic.in/en/scheme/maha-schemes/",
+      "published": "",
+      "collected_at": "2026-11-02T16:52:00+00:00",
+      "language": "hi"
+    }
+  ]
 }
