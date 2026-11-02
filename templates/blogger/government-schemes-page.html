@@ -1,0 +1,35 @@
+<!-- प्रसिद्ध भारत | सरकारी योजनाएँ
+Blogger > Pages > New Page > HTML view में पूरा कोड पेस्ट करें।
+योजना डेटा GitHub JSON से लोड होगा। -->
+<style>
+.pb-scheme-page{max-width:920px;margin:0 auto;padding:20px 14px;color:#202124;font-family:Arial,sans-serif;line-height:1.7}
+.pb-scheme-head{border-bottom:3px solid #c69b3c;margin-bottom:18px;padding-bottom:12px}
+.pb-scheme-head h1{margin:0;color:#17345b;font-size:27px;font-weight:800}
+.pb-scheme-head p{margin:7px 0 0;color:#687386;font-size:14px}
+.pb-scheme-links{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0}
+.pb-scheme-links a{display:inline-block;padding:10px 14px;border:1px solid #d7dfeb;border-radius:6px;color:#17345b;text-decoration:none;font-weight:700;font-size:13px}
+.pb-scheme-links a:hover{background:#f4f7fb}
+.pb-scheme-note{padding:12px 14px;background:#f7f8fa;border-left:3px solid #c69b3c;color:#596273;font-size:13px;margin:16px 0}
+.pb-scheme-list .pb-headline-item{padding:16px 2px;border-bottom:1px solid #e7eaf0}
+.pb-scheme-list .pb-headline-link{display:block;color:#17345b;font-size:18px;font-weight:700;text-decoration:none;line-height:1.5}
+.pb-scheme-list .pb-headline-meta{margin-top:6px;color:#737b88;font-size:12px}
+.pb-scheme-load{display:block;margin:24px auto 10px;padding:11px 25px;border:0;border-radius:5px;background:#17345b;color:#fff;font-size:14px;font-weight:700;cursor:pointer}
+.pb-scheme-load[hidden]{display:none}
+.pb-scheme-status{padding:12px 0;color:#6b7280;font-size:13px}
+@media(max-width:600px){.pb-scheme-page{padding:14px 10px}.pb-scheme-head h1{font-size:23px}.pb-scheme-list .pb-headline-link{font-size:16px}}
+</style>
+<div class="pb-scheme-page" data-pb-section data-data-url="https://raw.githubusercontent.com/rajeshpalshetkar/prasiddh-bharat/main/data/government-schemes/latest.json" data-page-size="20">
+  <header class="pb-scheme-head">
+    <h1>सरकारी योजनाएँ</h1>
+    <p>केंद्र और महाराष्ट्र सरकार की जनकल्याणकारी योजनाओं की जानकारी, पात्रता, लाभ और आवेदन प्रक्रिया।</p>
+  </header>
+  <div class="pb-scheme-links">
+    <a href="https://www.myscheme.gov.in/" target="_blank" rel="noopener noreferrer">केंद्र सरकार की योजनाएँ</a>
+    <a href="https://mahaschemes.maharashtra.gov.in/" target="_blank" rel="noopener noreferrer">महाराष्ट्र की योजनाएँ</a>
+  </div>
+  <div class="pb-scheme-note">योजना के लिए आवेदन करने से पहले संबंधित सरकारी पोर्टल पर पात्रता, आवश्यक दस्तावेज़ और अंतिम तिथि की पुष्टि अवश्य करें।</div>
+  <div class="pb-scheme-status" data-pb-status>योजनाओं की जानकारी लोड हो रही है...</div>
+  <div class="pb-scheme-list" data-pb-list></div>
+  <button class="pb-scheme-load" data-pb-load-more type="button" hidden>और योजनाएँ देखें</button>
+</div>
+<script src="https://cdn.jsdelivr.net/gh/rajeshpalshetkar/prasiddh-bharat@main/assets/js/section-renderer.js"></script>
