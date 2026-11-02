@@ -1,3 +1,39 @@
 {
-  "sources": []
+  "sources": [
+    {
+      "name": "अमर उजाला - ब्रेकिंग न्यूज़",
+      "feed_url": "https://www.amarujala.com/rss/breaking-news.xml",
+      "enabled": true,
+      "attribution": "अमर उजाला",
+      "usage_note": "केवल शीर्षक, स्रोत और मूल लिंक दिखाएँ। पूरा लेख या विवरण कॉपी न करें।"
+    },
+    {
+      "name": "अमर उजाला - एडिटर पिक",
+      "feed_url": "https://www.amarujala.com/rss/editors-pick.xml",
+      "enabled": true,
+      "attribution": "अमर उजाला",
+      "usage_note": "केवल शीर्षक, स्रोत और मूल लिंक दिखाएँ। पूरा लेख या विवरण कॉपी न करें।"
+    },
+    {
+      "name": "आज तक - मुख्य समाचार",
+      "feed_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "enabled": true,
+      "attribution": "आज तक",
+      "usage_note": "केवल शीर्षक, स्रोत और मूल लिंक दिखाएँ। Feed की शर्तों का पालन करें।"
+    },
+    {
+      "name": "BBC News हिंदी",
+      "feed_url": "https://feeds.bbci.co.uk/hindi/rss.xml",
+      "enabled": true,
+      "attribution": "BBC News हिंदी",
+      "usage_note": "केवल शीर्षक, स्रोत और मूल लिंक दिखाएँ। BBC की RSS शर्तों का पालन करें।"
+    },
+    {
+      "name": "दैनिक भास्कर - राष्ट्रीय",
+      "feed_url": "https://www.bhaskar.com/rss-v1--category-1061.xml",
+      "enabled": true,
+      "attribution": "दैनिक भास्कर",
+      "usage_note": "केवल शीर्षक, स्रोत और मूल लिंक दिखाएँ। Feed की शर्तों और कॉपीराइट का पालन करें।"
+    }
+  ]
 }
