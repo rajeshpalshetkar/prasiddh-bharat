@@ -2,8 +2,18 @@
   "section": "current-affairs",
   "name": "चालू घटनाएँ",
   "language": "hi",
-  "updated_at": "2026-11-02T16:47:39.417367+00:00",
+  "updated_at": "2026-11-03T06:50:21.767379+00:00",
   "items": [
+    {
+      "id": "4c6107583ab6d63b6841",
+      "title": "सुनेत्रा पवार से बढ़ती दूरियां या पार्थ की दखलंदाजी? अमित शाह के दरबार में क्यों गए करीबी नेता",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/ncp-leaders-meet-amit-shah-sunetra-pawar-parth-absence-maharashtra-politics-201793683854177.html",
+      "published": "Tue, 03 Nov 2026 11:34:39 +0530",
+      "collected_at": "2026-11-03T06:50:20.677865+00:00",
+      "language": "hi"
+    },
     {
       "id": "92b588fc7b0b437bafea",
       "title": "सुनेत्रा पवार ने NCP विधायकों की बुलाई तत्काल बैठक, मुंबई से लेकर दिल्ली तक हलचल तेज",
