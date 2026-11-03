@@ -2,8 +2,1148 @@
   "section": "headlines",
   "name": "महत्वपूर्ण समाचार",
   "language": "hi",
-  "updated_at": "2026-11-03T06:50:17.880829+00:00",
+  "updated_at": "2026-11-03T19:30:27.403593+00:00",
   "items": [
+    {
+      "id": "e7803c23f876330e797a",
+      "title": "अमेरिकी मध्यावधि चुनाव LIVE: मौसम का मतदान पर असर; न्यूयॉर्क में मतपत्रों को स्कैन करने वाली मशीनों में खराबी",
+      "source_name": "अमर उजाला - एडिटर पिक",
+      "source_url": "https://www.amarujala.com/rss/editors-pick.xml",
+      "url": "https://www.amarujala.com/live/world/us-midterm-elections-2026-live-updates-voting-trump-republicans-democrats-house-senate-2026-11-03",
+      "published": "Wed, 04 Nov 2026 12:33:09 +0530",
+      "collected_at": "2026-11-03T19:30:25.193589+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "7fe5fa473b55f08d55a0",
+      "title": "आज का राशिफल 04 नवंबर: मेष, सिंह और मकर राशि वालों के लिए खुशखबरी, धन लाभ और तरक्की के योग",
+      "source_name": "अमर उजाला - एडिटर पिक",
+      "source_url": "https://www.amarujala.com/rss/editors-pick.xml",
+      "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/aaj-ka-rashifal-04-november-2026-daily-horoscope-prediction-in-hindi-mesh-kark-singh-kanya-kumbh-makar-2026-11-03",
+      "published": "Wed, 04 Nov 2026 12:26:30 +0530",
+      "collected_at": "2026-11-03T19:30:25.193603+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "9cdca4f751407d0d292d",
+      "title": "मध्य प्रदेश: देवास में टीआई दिलीप पुरी हत्याकांड के मुख्य आरोपी का शॉर्ट एनकाउंटर, आरोपी के पैर में लगी गोली",
+      "source_name": "अमर उजाला - एडिटर पिक",
+      "source_url": "https://www.amarujala.com/rss/editors-pick.xml",
+      "url": "https://www.amarujala.com/madhya-pradesh/prime-suspect-in-murder-of-ti-dilip-puri-in-dewas-injured-in-brief-encounter-bullet-hits-suspect-in-leg-2026-11-04",
+      "published": "Wed, 04 Nov 2026 12:14:27 +0530",
+      "collected_at": "2026-11-03T19:30:25.193553+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "a3826b0eee70ded16e58",
+      "title": "बिना इंटरनेट भी चलेगा एआई: भारत ने पेश किए तीन स्वदेशी मॉडल, बैंकिंग से लेकर सरकारी कामकाज तक होंगे मददगार",
+      "source_name": "अमर उजाला - एडिटर पिक",
+      "source_url": "https://www.amarujala.com/rss/editors-pick.xml",
+      "url": "https://www.amarujala.com/technology/tech-diary/ai-will-work-even-without-internet-india-ai-mission-releases-indigenous-foundation-models-eka1-dhir-2b-dhir-5b-2026-11-03",
+      "published": "Wed, 04 Nov 2026 12:01:21 +0530",
+      "collected_at": "2026-11-03T19:30:25.193619+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "8b0e078d89ef96993272",
+      "title": "पीतल नगरी... जहां हिंदू-मुस्लिम की सियासी ताकत है बराबर!",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/elections/assembly-chunav/story/brass-city-moradabad-district-profile-hindus-muslims-equal-political-power-up-election-2027-vidhansabha-seat-details-lclam-dskc-2687486-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-04T01:00:00+05:30",
+      "collected_at": "2026-11-03T19:30:26.480619+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "c2b5c443df72b3aefe06",
+      "title": "ट्रंप के प्लान को ग्रीनलैंड की हरी झंडी, 16-0 से पास हुआ सुरक्षा समझौता",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/world/story/greenland-parliament-approves-us-security-agreement-military-expansion-ntc-acwi-dskc-2687684-2026-11-04?utm_source=rssfeed",
+      "published": "2026-11-04T00:29:45+05:30",
+      "collected_at": "2026-11-03T19:30:26.481209+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "661a1346c32b444e1e0a",
+      "title": "देवास TI को कुचलने वाले ट्रक ड्राइवर का हुआ शॉर्ट एनकाउंटर, लगी गोली",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/madhya-pradesh/story/dewas-ti-dilip-puri-case-truck-driver-gajendra-arrested-short-encounter-lcln-dskc-2687678-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T23:49:49+05:30",
+      "collected_at": "2026-11-03T19:30:26.480642+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "e5661f41b1564576e388",
+      "title": "कोहली पर किया था 5 करोड़ का दावा, अब संत ने धीरेंद्र शास्त्री को घेरा",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/religion/news/story/dhirendra-shastri-lord-krishna-controversy-falahari-maharaj-dinesh-sharma-virat-kohli-five-crore-tvisu-rpti-2687674-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T23:47:36+05:30",
+      "collected_at": "2026-11-03T19:30:26.481051+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "7546aab19acb60707541",
+      "title": "NASA के अनिल मेनन समेत 3 एस्ट्रोनॉट्स ने स्पेस से डाला वोट",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/world/story/us-midterm-elections-nasa-astronaut-anil-menon-votes-from-space-ntc-acwi-dskc-2687676-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T23:42:59+05:30",
+      "collected_at": "2026-11-03T19:30:26.481214+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "36c4431fe6933df3359a",
+      "title": "योगी सरकार का बड़ा फैसला, यूपी के 12 जिलों में लगेंगी भव्य प्रतिमाएं",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/uttar-pradesh/story/up-12-districts-statues-historical-personalities-prithviraj-chauhan-maharana-pratap-lcln-dskc-2687671-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T23:34:49+05:30",
+      "collected_at": "2026-11-03T19:30:26.480951+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "794c07c5b0e38eb751ee",
+      "title": "पानीपत में तब्लीगी इज्तिमा का आगाज, यमुना नदी पार कर पहुंचे हजारों अकीदतमंद",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/india/haryana/story/haryana-panipat-tablighi-ijtema-yamuna-river-crossing-maulana-saad-ntc-pvp-rpti-2687665-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T23:30:10+05:30",
+      "collected_at": "2026-11-03T19:30:26.480682+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "d82fa7e4755576ebe9e3",
+      "title": "प्लेटफॉर्म छोड़ लूप लाइन में चली गई ट्रेन, स्टेशन पर यात्रियों में हड़कंप",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/india/jharkhand/story/dhanbad-railway-station-gomo-asansol-passenger-train-loop-line-lcln-strc-2687662-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T23:18:43+05:30",
+      "collected_at": "2026-11-03T19:30:26.480686+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "d50b9201a55ee5ff3717",
+      "title": "अमेरिका में ट्रंप का मिड-टर्म टेस्ट, गिरती रेटिंग के बीच तीन मुद्दों पर घिरे हैं राष्ट्रपति!",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/world/story/us-midterm-elections-2026-voting-underway-for-house-and-senate-seats-trump-test-ntc-apdy-dskc-2687659-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T23:13:09+05:30",
+      "collected_at": "2026-11-03T19:30:26.481221+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "5c2f3eb36d103d0d0ec2",
+      "title": "‘शेख हसीना जिंदा हैं, तब तक शांति नहीं मिलेगी’, बांग्लादेश सरकार का आरोप",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/world/story/bangladesh-garment-workers-protest-sheikh-hasina-awami-league-1000-factories-shut-ntcppl-dskc-2687657-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T23:06:00+05:30",
+      "collected_at": "2026-11-03T19:30:26.481225+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "9148e38c539fe94c56be",
+      "title": "&#039;उत्सव के उल्लास को उपद्रव में बदलने की साजिश कतई बर्दाश्त नहीं...&#039;, सीएम योगी ने की कानून व्यवस्था की समीक्षा की",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/uttar-pradesh/story/yogi-adityanath-up-festival-security-law-order-review-utrath-ntc-pvp-rptc-2687656-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T23:03:06+05:30",
+      "collected_at": "2026-11-03T19:30:26.480956+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "62245048eef4f51009c1",
+      "title": "लेडी टीचर का कार की सीट पर दबाया गला, डिक्की में लाश रख घूमता रहा",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/uttar-pradesh/story/deoria-school-manager-arrested-for-murdering-female-teacher-over-marriage-pressure-lcln-strc-2687654-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T22:57:44+05:30",
+      "collected_at": "2026-11-03T19:30:26.480961+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "ca250134fdf69116a1de",
+      "title": "वाराणसी रोपवे में 16 मिनट में पहुंचेंगे कैंट से गोदौलिया, जानिए किराया",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/uttar-pradesh/story/kashi-ropeway-varanasi-96-percent-work-complete-december-start-lcln-strc-2687650-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T22:41:53+05:30",
+      "collected_at": "2026-11-03T19:30:26.480966+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "69f456269e4a30e88b01",
+      "title": "दिल्ली में दिवाली से पहले भीषण ट्रैफिक जाम, सड़कों पर रेंगते दिखे वाहन",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/india/delhi/story/massive-traffic-jam-seen-in-parts-of-delhi-amid-the-rush-for-festive-shopping-ntc-pvp-dskc-2687651-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T22:38:24+05:30",
+      "collected_at": "2026-11-03T19:30:26.480677+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "ca0b7ed7899e640358ef",
+      "title": "रामायण की स्क्रीनिंग में रवि दुबे ने छुए सनी के पैर, गायब यश-साई!",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/ranbir-kapoor-sunny-deol-yash-alia-bhatt-neetu-kapoor-at-ramayana-special-screening-in-mumbai-tmovj-2687645-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T22:37:30+05:30",
+      "collected_at": "2026-11-03T19:30:26.480927+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "b4e1e349e7a1bc1222ec",
+      "title": "दिवाली पर गणपति के आगे क्यों जलाते हैं सरसों के तेल का दीपक? जानिए",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/religion/news/story/diwali-2026-kheel-offer-to-laxmi-sarson-ke-tel-ka-deepak-lord-ganesh-shubh-muhurt-puja-vidhi-tvisu-dskc-2686907-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T22:33:51+05:30",
+      "collected_at": "2026-11-03T19:30:26.481056+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "b5d667927bfc33d15d34",
+      "title": "PAK: गैंगरेप केस में पुलिस ने डिप्टी PM के पोते को बरी किया, नौकरों को फंसाया!",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/world/story/pakistan-gang-rape-case-ishaq-dar-grandson-clean-chit-lahore-police-servent-chargesheeted-ntcppl-dskc-2687646-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T22:32:44+05:30",
+      "collected_at": "2026-11-03T19:30:26.481230+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "36bcdc3f1b14f6ee232a",
+      "title": "1 दिन में करें दिवाली की सफाई, चमकेगा किचन से लेकर बाथरूम तक",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/lifestyle/home-living/story/diwali-deep-cleaning-tips-how-to-clean-house-in-one-day-deepawali-home-cleaning-guide-2-rooms-kitchen-bathroom-hall-tmovx-dskc-2687180-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T22:30:06+05:30",
+      "collected_at": "2026-11-03T19:30:26.480668+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "22481994c9eb94d76143",
+      "title": "SIR ड्राफ्ट में नाम कटा तो दोबारा भर सकेंगे फॉर्म-6, EC की सफाई",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/india/news/story/election-commission-form-6-voter-list-name-missing-procedure-ntc-pvp-dskc-2687649-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T22:28:22+05:30",
+      "collected_at": "2026-11-03T19:30:26.480850+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "5ae1db0633c72983355d",
+      "title": "निर्मला सीतारमण ने वाराणसी में जारी किया 250 रुपये का सिक्का",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/uttar-pradesh/story/nirmala-sitharaman-releases-250-rupee-coin-muttuswami-dikshitar-varanasi-ntc-apdy-rptc-2687648-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T22:23:05+05:30",
+      "collected_at": "2026-11-03T19:30:26.480971+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "186b5c6c8cb6aef7cd25",
+      "title": "3 हाथी और 3 JCB, ऐसे बचाई गई &#039;डुआर्स क्वीन&#039; बाघिन",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/short-videos/video/dooars-queen-tigress-rescued-safely-kokrajhar-assam-wildlife-details-mmtm-2687643-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T22:21:48+05:30",
+      "collected_at": "2026-11-03T19:30:26.480745+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "b9729329bc0c25cb050d",
+      "title": "पुणे मेट्रो से IT हब को फायदा, PM मोदी बोले...",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/short-videos/video/pm-modi-pune-metro-projects-poverty-reduction-route-details-mmtm-2687642-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T22:06:45+05:30",
+      "collected_at": "2026-11-03T19:30:26.480749+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "30694528e114860ca6a4",
+      "title": "&#039;पवन सिंह को 20 दिन अकेला छोड़ दो...फिर देखना&#039;, पत्नी का चैलेंज",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/entertainment/bhojpuri/photo/pawan-singh-wife-jyoti-singh-challenged-akshara-singh-affair-divorce-case-tmova-2678227-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T22:06:03+05:30",
+      "collected_at": "2026-11-03T19:30:26.480932+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "ec1ced1645214f32e66b",
+      "title": "PNB फ्रॉड केस में एक्शन, बैंक कर्मचारी समेत दो गिरफ्तार",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/uttar-pradesh/story/greater-noida-pnb-bank-fraud-cbi-arrests-10-crore-transaction-ntc-pvp-rpti-2687640-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T21:57:48+05:30",
+      "collected_at": "2026-11-03T19:30:26.480867+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "84a4b0b07adc03a88ac4",
+      "title": "'दिवाली दीये के बिना अधूरी है, मगर लगता नहीं मेरे बच्चे ये काम करेंगे'",
+      "source_name": "BBC News हिंदी",
+      "source_url": "https://feeds.bbci.co.uk/hindi/rss.xml",
+      "url": "https://www.bbc.com/hindi/watch/cw1m41kxvnmvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 16:25:12 GMT",
+      "collected_at": "2026-11-03T19:30:27.043694+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "a400f47bf1e129f79299",
+      "title": "इंडिया ब्लॉक की रैली से क्या कारोबार पर असर पड़ा है? दिल्ली के बाज़ारों से ग्राउंड रिपोर्ट",
+      "source_name": "BBC News हिंदी",
+      "source_url": "https://feeds.bbci.co.uk/hindi/rss.xml",
+      "url": "https://www.bbc.com/hindi/watch/cq74pg70kg4vo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 16:22:37 GMT",
+      "collected_at": "2026-11-03T19:30:27.043540+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "071de91d4b21cc61b0cf",
+      "title": "दिवाली पर पटाखे नहीं जलाने की अपील, सुनीता आहूजा बोलीं-",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/short-videos/video/diwali-firecrackers-sunita-ahuja-dia-mirza-controversy-bmc-bombay-hc-order-details-mmtm-2687639-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T21:52:34+05:30",
+      "collected_at": "2026-11-03T19:30:26.480754+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "7039f21cf2982e9b05d6",
+      "title": "उमर सरकार की मुश्किलें बढ़ीं, बागी विधायक मुबारक गुल कर सकते हैं बड़ा ऐलान",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/india/jammu-kashmir/story/omar-abdullah-govt-nc-mla-mubarak-gul-to-announce-next-move-ntc-apdy-rptc-2687638-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T21:48:53+05:30",
+      "collected_at": "2026-11-03T19:30:26.480701+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "753ee276f863fd825618",
+      "title": "40 करोड़ के आलीशान घर में रहते हैं सौरव गांगुली, Inside Photos",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/lifestyle/news/photo/sourav-gangulys-rs-40-crore-kolkata-mansion-with-48-rooms-trophy-room-private-cricket-pitch-dining-table-interiors-inside-photos-tvisx-2687407-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T21:46:03+05:30",
+      "collected_at": "2026-11-03T19:30:26.480658+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "dd83e2dfe0060834cfdc",
+      "title": "मन्नत की मुलाकात से मिली &#039;किंग&#039;, एक रात में सिंगर ने लिखा गाना",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/entertainment/bollywood-news/story/ed-sheeran-on-bollywood-playback-debut-tu-mil-jaye-shah-rukh-khan-king-tmovj-dskc-2687635-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T21:39:02+05:30",
+      "collected_at": "2026-11-03T19:30:26.480937+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "a10f3a9a52d80f8dda1f",
+      "title": "बाबा बागेश्वर के बयान पर बवाल, बार-बार मांग रहे माफी?",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/short-videos/video/baba-bageshwar-dhirendra-shastri-ram-krishna-controversy-akhilesh-statement-details-mmtm-2687637-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T21:38:33+05:30",
+      "collected_at": "2026-11-03T19:30:26.480759+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "374d1cb05798e340ad52",
+      "title": "धनतेरस से इन 4 राशियों का गोल्डन टाइम शुरू! सोने की तरह चमकेगा भाग्य",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/religion/news/story/dhanteras-2026-rashifal-lucky-zodiac-signs-golden-time-start-goodluck-money-success-tvisu-dskc-2687498-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T21:33:49+05:30",
+      "collected_at": "2026-11-03T19:30:26.481061+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "7690d68e6bb5d608a712",
+      "title": "घी में मिलावट का शक, फैक्ट्री से मिला संदिग्ध पदार्थ",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/short-videos/video/ghee-seized-35000-litres-factory-sealed-adulteration-jaipur-rajasthan-police-case-mmtm-2687630-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T21:24:02+05:30",
+      "collected_at": "2026-11-03T19:30:26.480764+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "d46dfc549b14ce80eb60",
+      "title": "डेटा की जरूरत नहीं? ये है Jio का कॉलिंग वाला सस्ता प्लान",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/technology/tech-news/story/jio-voice-only-recharge-plans-147-rupees-ttecm-dskc-2687628-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T21:18:31+05:30",
+      "collected_at": "2026-11-03T19:30:26.481133+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "c0bcb99e8d85ad2f6a95",
+      "title": "मार्केट की मिठाई छोड़ें, दिवाली के लिए घर में बनाएं छेना टोस्ट",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/lifestyle/news/story/how-to-make-chhena-toast-at-home-recipe-diwali-pe-market-ki-mithai-nahi-ghar-pe-banaye-cheena-toast-tvisp-dskc-2687627-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T21:11:20+05:30",
+      "collected_at": "2026-11-03T19:30:26.481027+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "82cf767d2a64f50ccfeb",
+      "title": "जब आसमान में राज करते थे विशालकाय शिकारी पक्षी, इंसानी बच्चों का भी करते थे शिकार",
+      "source_name": "BBC News हिंदी",
+      "source_url": "https://feeds.bbci.co.uk/hindi/rss.xml",
+      "url": "https://www.bbc.com/hindi/articles/cmj47k9x0z1qo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 15:40:26 GMT",
+      "collected_at": "2026-11-03T19:30:27.043511+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "bfc9f93d1381a93b66b5",
+      "title": "‘हम CM तब बनते हैं, जब चुनाव नहीं लड़ते’, अखिलेश का तंज",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/elections/assembly-chunav/story/akhilesh-yadav-varanasi-up-assembly-election-2027-cm-post-ntcppl-dskc-2687601-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T21:09:42+05:30",
+      "collected_at": "2026-11-03T19:30:26.480825+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "555835537fc573be0e5f",
+      "title": "AQI 462 के पार, दिल्ली में GRAP-2 लागू",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/short-videos/video/delhi-air-pollution-aqi-462-jahangirpuri-grap-2-reasons-explained-mmtm-2687563-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T21:09:08+05:30",
+      "collected_at": "2026-11-03T19:30:26.480769+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "c79f0151e8f86a6d8237",
+      "title": "Review: शबरी की भक्ति-राम का नाम, दिल छूता है रामा-रामा गाना",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/entertainment/bollywood-news/story/ramayana-rama-rama-song-rishab-rikhiram-sharma-shabri-bhakti-review-tmovj-dskc-2687602-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T21:06:03+05:30",
+      "collected_at": "2026-11-03T19:30:26.480942+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "d3d21eb56f54e39985c9",
+      "title": "धीरेंद्र शास्त्री के बयान पर बवाल, राम-कृष्ण में भेद क्यों किया? देखें विशेष",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/programmes/vishesh/video/uproar-over-dhirendra-shastri-statement-distinction-between-ram-krishna-vdop-2687625-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T21:03:05+05:30",
+      "collected_at": "2026-11-03T19:30:26.480886+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "2533e8e185922b59e617",
+      "title": "3 पेसर, नंबर 8 पर कंबोज? ऑकलैंड ODI के लिए टीम इंडिया का प्लान तैयार",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/sports/cricket/story/india-vs-new-zealand-1st-odi-preview-3-pacer-batting-order-shubman-gill-tspok-dskc-2687537-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T21:00:10+05:30",
+      "collected_at": "2026-11-03T19:30:26.480612+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "5c45aaf7afa4e0abfe83",
+      "title": "रॉयल एनफील्ड ने लगा दी झड़ी! उतारी एक से बढकर एक धांसू बाइक्स",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/auto/news/photo/royal-enfield-eicma-2026-himalayan-750-continental-gt-750-flying-flea-s6-auaw-2687412-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T20:58:03+05:30",
+      "collected_at": "2026-11-03T19:30:26.481259+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "645b0278b3cfa5714640",
+      "title": "BMC कमिश्नर को सुप्रीम कोर्ट की अवमानना का नोटिस:कहा- जब अधिकारियों को जेल भेजेंगे, तब अदालत के आदेश की अहमियत समझ आएगी",
+      "source_name": "दैनिक भास्कर - राष्ट्रीय",
+      "source_url": "https://www.bhaskar.com/rss-v1--category-1061.xml",
+      "url": "https://www.bhaskar.com/national/news/mumbai-bmc-commissioner-supreme-court-contempt-notice-salary-frozen-139582629.html",
+      "published": "Tue, 03 Nov 2026 15:16:55 +0000",
+      "collected_at": "2026-11-03T19:30:27.400980+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "b051949fc0e8ebdc8b9a",
+      "title": "शुक्र प्रदोष में मनेगा धनतेरस, अभी नोट कर लें खरीदारी का शुभ मुहूर्त",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/religion/news/story/dhanteras-2026-shukra-pradosh-laxmi-kuber-puja-dhanteras-par-kharidari-ka-shubh-muhurt-kya-hai-tvisu-dskc-2687599-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T20:42:21+05:30",
+      "collected_at": "2026-11-03T19:30:26.481065+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "75383e09e129146a84cb",
+      "title": "&#039;इस्तीफा दे दूंगा...दलेर मेहंदी से माफी नहीं मांगूंगा&#039;, डटे मंत्री सुबोध उनियाल",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/entertainment/bollywood-news/story/daler-mehndi-controversy-minister-subodh-uniyal-clarifies-wont-apologise-will-resign-if-needed-tmova-dskc-2687595-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T20:36:04+05:30",
+      "collected_at": "2026-11-03T19:30:26.480947+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "f43d55ed56bdb30eb3c9",
+      "title": "अमेरिका को ईरान का अल्टीमेटम, अब किसकी बारी?",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/short-videos/video/iran-warning-to-america-middle-east-us-military-targets-trump-explained-mmtm-2687591-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T20:23:14+05:30",
+      "collected_at": "2026-11-03T19:30:26.480773+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "789abd396bebe0447990",
+      "title": "मौसम बदलते ही मन उदास है... कहीं ये व‍िंटर ब्लूज तो नहीं?",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/education/news/story/winter-blues-seasonal-affective-disorder-causes-symptoms-treatment-edmm-dskc-2687565-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T19:56:38+05:30",
+      "collected_at": "2026-11-03T19:30:26.481158+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "5c7486ef329e348761ed",
+      "title": "US में मिडटर्म इलेक्शन की वोटिंग जारी, तीन सर्वे में पिछड़े ट्रंप",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/world/story/american-midterm-election-congress-republic-and-democratic-party-voting-begins-ntcppl-dskc-2687544-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T19:52:48+05:30",
+      "collected_at": "2026-11-03T19:30:26.480691+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "ebac2e1768c73bafc2a6",
+      "title": "दिवाली की रात घर में आग न लग जाए! झालर लगाने से पहले जान लें 7 बातें",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/technology/tech-tips-and-tricks-/story/diwali-fire-safety-tips-short-circuit-prevention-home-ttecm-dskc-2687551-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T19:51:49+05:30",
+      "collected_at": "2026-11-03T19:30:26.481138+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "04bf84fd58501bd60073",
+      "title": "नए अवतार में आ रही लोगों की पसंदीदा CRETA, चल रही टेस्टिंग",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/auto/news/story/hyundai-creta-2027-spotted-testing-expected-features-details-auam-dskc-2687408-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T19:49:42+05:30",
+      "collected_at": "2026-11-03T19:30:26.481264+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "8d4d2ed810a6eedc1cb1",
+      "title": "प्रदूषण में वॉक और एक्सरसाइज़ से बचें? डॉक्टर बोले...",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/short-videos/video/delhi-ncr-aqi-400-outdoor-walk-exercise-health-risk-doctor-advise-explained-mmtm-2687558-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T19:39:57+05:30",
+      "collected_at": "2026-11-03T19:30:26.481285+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "ad1f924bc35f2a4a25e2",
+      "title": "नाम ड्रॉफ्ट वोटर लिस्ट में नहीं, फॉर्म-6 भरें:चुनाव आयोग बोला- केस नहीं होगा, दोबारा जुड़वाएं; SIR में 30 राज्यों के 13 करोड़ नाम कटे",
+      "source_name": "दैनिक भास्कर - राष्ट्रीय",
+      "source_url": "https://www.bhaskar.com/rss-v1--category-1061.xml",
+      "url": "https://www.bhaskar.com/g/national/news/election-commission-voter-list-update-form-6-india-news-139582145.html",
+      "published": "Tue, 03 Nov 2026 14:05:25 +0000",
+      "collected_at": "2026-11-03T19:30:27.400958+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "ff83b75b3467b726e4f7",
+      "title": "धीरेंद्र शास्त्री के बयान पर अखिलेश और पप्पू यादव समेत कई नेता हमलावर, क्या है पूरा विवाद?",
+      "source_name": "BBC News हिंदी",
+      "source_url": "https://feeds.bbci.co.uk/hindi/rss.xml",
+      "url": "https://www.bbc.com/hindi/articles/cw23d520vlrgo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 13:58:41 GMT",
+      "collected_at": "2026-11-03T19:30:27.043550+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "53795900e56a9ac533be",
+      "title": "NEET-PG में पर्सेंटाइल की जगह अब रैंक से दाखिला! SC को दी रिपोर्ट",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/education/news/story/neet-pg-neet-ss-rank-based-merit-system-implementation-edmm-dskc-2687554-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T19:23:57+05:30",
+      "collected_at": "2026-11-03T19:30:26.481163+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "82944c8ac37ad78805af",
+      "title": "भारत के बाद पाक ने भी किया खतरनाक टीम का ऐलान, ये धुरंधर बना कप्तान",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/sports/cricket/story/pakistan-squad-for-rising-stars-asia-cup-2026-abdul-samad-named-captain-full-list-of-players-aksp-dskc-2687503-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T19:19:39+05:30",
+      "collected_at": "2026-11-03T19:30:26.481000+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "f91c6e9972d97db5dcf3",
+      "title": "मिट्टी के दीयों से चमकी 200 परिवारों की ऐसे ज़िंदगी",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/short-videos/video/sirsa-khurd-potters-diyas-ayodhya-deepotsav-diwali-festival-vibe-details-mmtm-2687550-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T19:19:00+05:30",
+      "collected_at": "2026-11-03T19:30:26.480783+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "8e1cd382b07e2cac5064",
+      "title": "टीम इंडिया का ये गेंदबाज टेस्ट के लिए फिट, बुमराह-सिराज की बड़ी ताकत",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/sports/cricket/story/prasidh-krishna-fit-for-india-vs-new-zealand-test-series-tspok-dskc-2687547-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T19:09:12+05:30",
+      "collected_at": "2026-11-03T19:30:26.481010+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "d55b7d0661baef61a8b0",
+      "title": "यूक्रेन के डिफेंस सेक्टर में 900 करोड़ लगाएगा नॉर्वे, NATO देश का बड़ा ऐलान",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/defence-news/story/norway-ukraine-defence-investment-private-capital-investinor-russia-war-ntc-mnrd-smsr-2687536-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T18:55:36+05:30",
+      "collected_at": "2026-11-03T19:30:26.481316+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "04f08f3bc905c05a9886",
+      "title": "क्या ट्रंप की कुर्सी पर होगा असर? US में हो रहे इलेक्शन का क्या है मतलब",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/information/story/us-midterm-elections-2026-what-are-they-can-they-remove-president-tstsd-dskc-2687482-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T18:54:54+05:30",
+      "collected_at": "2026-11-03T19:30:26.480820+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "a408aac91144c9eb8f0b",
+      "title": "रोहित-विराट के सामने कीवी गेंदबाजों की अग्निपरीक्षा! कौन पड़ेगा भारी?",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/sports/cricket/story/ind-vs-nz-auckland-odi-key-player-matchups-rohit-sharma-vs-matt-henry-virat-kohli-vs-kyle-jamieson-aksp-dskc-2687540-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T18:53:17+05:30",
+      "collected_at": "2026-11-03T19:30:26.481005+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "85e55cba2147a2fc4529",
+      "title": "दिवाली पर काशी विश्वनाथ धाम में खास सजावट, जानें...",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/short-videos/video/kashi-vishwanath-temple-diwali-dhanteras-darshan-booking-varanasi-ghat-timing-mmtm-2687525-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T18:40:07+05:30",
+      "collected_at": "2026-11-03T19:30:26.480789+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "fa5686945e3bf9f9de4a",
+      "title": "आज रात आपका कनेक्शन कट जाएगा... साइबर ठगों का खतरनाक पैंतरा!",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/technology/tech-news/story/whatsapp-gas-connection-scam-fake-apk-app-online-fraud-prym-dskc-2687526-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T18:35:19+05:30",
+      "collected_at": "2026-11-03T19:30:26.481143+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "f279e7941b022ad01937",
+      "title": "राहुल बोले- मोदी जी देश विरोधी कौन, बहस कीजिए:जगह-जज आप चुनिए; शाह बोले- किसी भी मुद्दे पर बहस को तैयार, संसद चलने दीजिए",
+      "source_name": "दैनिक भास्कर - राष्ट्रीय",
+      "source_url": "https://www.bhaskar.com/rss-v1--category-1061.xml",
+      "url": "https://www.bhaskar.com/g/national/news/rahul-gandhi-pm-modi-debate-challenge-video-statement-139581565.html",
+      "published": "Tue, 03 Nov 2026 13:00:24 +0000",
+      "collected_at": "2026-11-03T19:30:27.400974+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "e0c0ba3ba66bcae4e9f6",
+      "title": "साउथ ब्लॉक से खत्म होगा रिश्ता, शौर्य भवन में शिफ्ट होंगे सेना अधिकारी",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/defence-news/story/south-blocks-military-chapter-nears-end-as-army-navy-chiefs-prepare-to-shift-rptc-2687529-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T18:29:53+05:30",
+      "collected_at": "2026-11-03T19:30:26.481320+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "786e2e96f8da15d5b190",
+      "title": "सूर्या छोड़ेंगे मुंबई? KKR और LSG संग ट्रेड के बीच सामने आया ये VIDEO",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/sports/cricket/story/suryakumar-yadav-kkr-lsg-trade-ipl-2027-mumbai-indians-video-tspok-dskc-2687527-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T18:21:04+05:30",
+      "collected_at": "2026-11-03T19:30:26.481017+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "1fa03917dce8ead13183",
+      "title": "NCP का असली बॉस कौन? सुनेत्रा की बैठक से हलचल!",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/short-videos/video/ncp-power-struggle-sunetra-parth-pawar-senior-leaders-amit-shah-meeting-mumbai-mmtm-2687513-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T18:12:02+05:30",
+      "collected_at": "2026-11-03T19:30:26.480793+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "793f59772cd2b515a22f",
+      "title": "बेटी को आंखों के सामने गोली मारी गई, अब मां विदेश में रहकर लड़ रही है इंसाफ़ की जंग",
+      "source_name": "BBC News हिंदी",
+      "source_url": "https://feeds.bbci.co.uk/hindi/rss.xml",
+      "url": "https://www.bbc.com/hindi/articles/c61wv1jlg02no?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 12:36:30 GMT",
+      "collected_at": "2026-11-03T19:30:27.043555+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "421d2891679150254f81",
+      "title": "पति को मनाने में बीते 20 साल, एक्ट्रेस ने सफेद गाउन में की शादी",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/entertainment/television/photo/balika-vadhu-actress-smita-bansal-remarried-in-white-gown-took-20-years-to-convince-husband-tmova-2687495-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T18:00:29+05:30",
+      "collected_at": "2026-11-03T19:30:26.480901+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "93633375dac492303594",
+      "title": "AQI 400 के पार, क्या टहलने के लिए बाहर जाना ठीक है?",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/health/story/delhi-ncr-aqi-400-pollution-morning-walk-health-risks-dskc-2687519-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T17:58:21+05:30",
+      "collected_at": "2026-11-03T19:30:26.481290+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "77dd6a5a5ae903f1951d",
+      "title": "NTA का 5000 से बड़ा एक्सपर्ट पैनल तैयार! बनाएंगे NEET-JEE पेपर",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/education/news/story/nta-expert-panel-question-bank-to-prevent-exam-paper-leak-edmm-dskc-2687518-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T17:57:03+05:30",
+      "collected_at": "2026-11-03T19:30:26.481170+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "5573e18341b5eea93ed9",
+      "title": "भारत में रेस्टोरेंट क्यों महंगे कर रहे हैं खाना? जानें",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/short-videos/video/diwali-restaurant-food-menu-price-hike-2687502-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T17:49:39+05:30",
+      "collected_at": "2026-11-03T19:30:26.480798+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "9a84db624185bd8a9037",
+      "title": "दो दिन में ₹11 लाख करोड़ की कमाई, दिवाली से पहले शेयर बाजार में बरसे पैसे",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/business/news/story/stock-market-rally-before-diwali-dhanteras-investors-earn-11-lakh-crore-rupee-in-just-two-days-tutc-dskc-2687493-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T17:38:19+05:30",
+      "collected_at": "2026-11-03T19:30:26.481185+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "ad19fe885c85de837184",
+      "title": "दिवाली से पहले सस्ता हुआ सोना-चांदी, खरीदारी करें अब?",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/short-videos/video/gold-silver-price-crash-before-diwali-dhanteras-festival-season-expert-advise-mmtm-2687489-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T17:27:27+05:30",
+      "collected_at": "2026-11-03T19:30:26.480803+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "7644cf741211f002e8d7",
+      "title": "&#039;Hello Violette...&#039; आ गई बात करने वाली बाइक, 323KM रेंज",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/auto/news/story/ultraviolette-launches-x-47-venom-electric-bike-eicma-2026-auaw-dskc-2687485-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T17:25:41+05:30",
+      "collected_at": "2026-11-03T19:30:26.481268+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "52d662dc27806fc37e8c",
+      "title": "₹19 हजार सस्ता हुआ Motorola का फोन, सेल में आखिरी मौका!",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/technology/tech-news/photo/motorola-edge-70-fusion-price-discount-flipkart-diwali-sale-prym-2687473-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T17:25:21+05:30",
+      "collected_at": "2026-11-03T19:30:26.481148+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "2d1c37a7d1ef7b9fe35b",
+      "title": "न है सैलरी, न काम आ रही डिग्री, इंजीनियर ने अपने करियर पर उठा दिया सवाल",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/education/career/story/software-engineering-job-insecurity-ai-impact-layoffs-tech-industry-ngix-dskc-2687475-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T17:21:54+05:30",
+      "collected_at": "2026-11-03T19:30:26.481175+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "4b2d9dfd47026d70d295",
+      "title": "मांग-मांगकर खाएंगे बच्चे, नाश्ते में चना दाल-लौकी से बनाएं गलौटी कबाब",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/lifestyle/news/story/how-to-make-lauki-galouti-kebab-at-home-soft-and-delicious-vegetarian-kebabs-recipe-for-evening-snacks-tvisx-dskc-2684650-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T17:11:22+05:30",
+      "collected_at": "2026-11-03T19:30:26.481032+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "f21394526e3335cda919",
+      "title": "KGMU डॉक्टर केस: मुर्गे के खून से लव लेटर लिखने का दावा",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/short-videos/video/kgmu-doctor-rameez-lucknow-case-love-letter-allegations-chicken-blood-case-details-mmtm-2687478-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T17:04:29+05:30",
+      "collected_at": "2026-11-03T19:30:26.480808+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "782ef0e4690f7a0d9bd8",
+      "title": "नौकरी के नाम पर धोखे से सेना में भर्ती कर भेजा यूक्रेन वॉर जोन!",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/education/news/story/russian-army-recruitment-vamsi-indians-ukraine-border-edmm-dskc-2687459-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T16:52:15+05:30",
+      "collected_at": "2026-11-03T19:30:26.481180+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "ae72a43ef3aabddfb3dc",
+      "title": "फ्लाइट टिकट के लिए किराए को लेकर क्या कोई सीमा नहीं?",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/short-videos/video/flight-fare-limit-airline-ticket-price-diwali-chhath-festive-season-dgca-details-mmtm-2687471-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T16:49:17+05:30",
+      "collected_at": "2026-11-03T19:30:26.480815+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "2671c2f1f9913e97ce4e",
+      "title": "IND vs PAK के बीच खेले जाएंगे 10 मुकाबले! कब और कहां होगी टक्कर",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/sports/cricket/story/ind-vs-pak-under-19-asia-cup-rising-stars-asia-cup-asia-cup-world-cup-2027-india-vs-pakistan-matches-details-aksp-dskc-2687446-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T16:46:26+05:30",
+      "collected_at": "2026-11-03T19:30:26.481022+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "030726e4460a2da74593",
+      "title": "200MP के दो कैमरे और पावरफुल परफॉर्मेंस, ऐसा होगा OnePlus 16T",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/technology/tech-news/story/oneplus-16t-leaks-specification-camera-200mp-display-ttecr-dskc-2687235-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T16:43:30+05:30",
+      "collected_at": "2026-11-03T19:30:26.481153+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "41ded4b3505becaaacef",
+      "title": "टाटा-महिंद्रा से टक्कर, इस दिन आएगी पहली इलेक्ट्रिक होंडा",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/auto/news/story/honda-alpha-electric-suv-official-teaser-launch-date-features-auam-dskc-2687445-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T16:37:47+05:30",
+      "collected_at": "2026-11-03T19:30:26.481273+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "55dfe6cb25eb45d96b8a",
+      "title": "हवन के साथ पढ़ी कुरान खानी, हिंदू पति संग हानिया का गृहप्रवेश",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/entertainment/news/photo/haania-manzar-new-house-griha-pravesh-havan-quran-khani-hindu-husband-love-story-interfaith-marriage-tmova-2686886-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T16:36:03+05:30",
+      "collected_at": "2026-11-03T19:30:26.480911+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "41becfe3824c2c3b2406",
+      "title": "भारत ने पहली बार एक लॉन्चर से 2 मिसाइलें दागीं:500km दूर 2 टारगेट तबाह, टेस्ट सफल; पाकिस्तान बॉर्डर पर तैनात होगी",
+      "source_name": "दैनिक भास्कर - राष्ट्रीय",
+      "source_url": "https://www.bhaskar.com/rss-v1--category-1061.xml",
+      "url": "https://www.bhaskar.com/g/national/news/pralay-missile-test-chandipur-odisha-drdo-launch-139580137.html",
+      "published": "Tue, 03 Nov 2026 10:58:26 +0000",
+      "collected_at": "2026-11-03T19:30:27.401008+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "8aa473b9ef2376591692",
+      "title": "फराह खान ने कराया अपने बेडरूम का मेकओवर, दिखा 5-स्टार होटल जैसा लुक",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/lifestyle/news/story/farah-khan-bedroom-makeover-after-karan-johar-advised-celebrity-home-transformation-luxury-bedroom-interior-design-tmovx-dskc-2687214-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T16:19:10+05:30",
+      "collected_at": "2026-11-03T19:30:26.481037+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "9fd683af4aeb202d7c4b",
+      "title": "उमर अब्दुल्लाह सांसद के इस्तीफ़े और अपने ही विधायकों की नाराज़गी के बीच बड़े सियासी संकट में घिरे",
+      "source_name": "BBC News हिंदी",
+      "source_url": "https://feeds.bbci.co.uk/hindi/rss.xml",
+      "url": "https://www.bbc.com/hindi/articles/cm3wv0e9x32jo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 10:33:12 GMT",
+      "collected_at": "2026-11-03T19:30:27.043560+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "cf2f64f226daf5113ed1",
+      "title": "फ़ुटबॉल मैच के दौरान गोलकीपर से भीषण टक्कर के बाद खिलाड़ी की मौत",
+      "source_name": "BBC News हिंदी",
+      "source_url": "https://feeds.bbci.co.uk/hindi/rss.xml",
+      "url": "https://www.bbc.com/hindi/articles/ckpqg8xj4n4eo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 10:15:13 GMT",
+      "collected_at": "2026-11-03T19:30:27.043591+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "4bff2f87fffcd8cd87d7",
+      "title": "मूड खराब होते ही चॉकलेट खाने का क्यों करना है मन, रिसर्च में चला पता",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/health/story/comfort-eating-mental-stress-junk-food-craving-study-tvisa-dskc-2687409-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T15:20:33+05:30",
+      "collected_at": "2026-11-03T19:30:26.481295+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "8cd14b7bea9d61249a3a",
+      "title": "इंडिगो फ्लाइट में इमरजेंसी दरवाजे से छेड़छाड़:दिल्ली से पुणे जा रहा था प्लेन, लीवर छूने पर अलार्म बजा; यात्री पर केस दर्ज",
+      "source_name": "दैनिक भास्कर - राष्ट्रीय",
+      "source_url": "https://www.bhaskar.com/rss-v1--category-1061.xml",
+      "url": "https://www.bhaskar.com/g/national/news/indigo-flight-emergency-exit-alarm-delhi-pune-passenger-case-139579193.html",
+      "published": "Tue, 03 Nov 2026 09:39:05 +0000",
+      "collected_at": "2026-11-03T19:30:27.400986+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "63657034f564ff1d2ff6",
+      "title": "SD Pay ऐप के नाम पर 1211 करोड़ की ठगी, 6.52 लाख लोग बने शिकार",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/crime/cyber-crime/story/sd-pay-app-scam-1211-crore-6-52-lakh-investors-12-arrested-pvzs-rpti-2687385-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T15:04:34+05:30",
+      "collected_at": "2026-11-03T19:30:26.480975+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "52077548a94b2a435058",
+      "title": "करीना भी निहारती रह गईं नीता अंबानी का बेशकीमती ब्रोच, इतनी है कीमत",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/lifestyle/news/story/nita-ambani-dragonfly-brooch-grabs-kareena-kapoor-attention-at-nmacc-library-launch-event-worth-crore-video-viral-tvisx-dskc-2687297-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T15:01:00+05:30",
+      "collected_at": "2026-11-03T19:30:26.481041+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "624e300ae4715fb15597",
+      "title": "चीनी कंपनी की भारत में बल्ले-बल्ले... SUV की हुई रिकॉर्ड बिक्री",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/auto/news/photo/byd-sealion-7-sales-india-fastest-selling-byd-ev-details-auam-2687253-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T15:00:51+05:30",
+      "collected_at": "2026-11-03T19:30:26.481278+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "922306e3c3d225f3a5dd",
+      "title": "आज तक की खबर का असर, सहरसा नगर निगम के कमिश्नर प्रभात झा सस्पेंड",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/crime/news/story/saharsa-nagar-nigam-tender-scam-commissioner-prabhat-kumar-jha-suspended-pvzs-rpti-2687377-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T14:52:33+05:30",
+      "collected_at": "2026-11-03T19:30:26.480980+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "7094241d875b67bcdd62",
+      "title": "कुवैत पर कब्ज़ा कर सद्दाम हुसैन ने बनाया था नया 'देश', जो सिर्फ़ चार दिन चला",
+      "source_name": "BBC News हिंदी",
+      "source_url": "https://feeds.bbci.co.uk/hindi/rss.xml",
+      "url": "https://www.bbc.com/hindi/articles/ck79pg1479ngo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 09:19:50 GMT",
+      "collected_at": "2026-11-03T19:30:27.043584+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "5e16b24f5aaa7c5938b0",
+      "title": "फेवीक्विक से हाथ चिपकाए, ₹4.5 लाख का मंगलसूत्र लूटा:बेंगलुरु में महिला को दिनदहाड़े बंधक बनाने की कोशिश, गले पर चाकू रखा; आरोपी गिरफ्तार",
+      "source_name": "दैनिक भास्कर - राष्ट्रीय",
+      "source_url": "https://www.bhaskar.com/rss-v1--category-1061.xml",
+      "url": "https://www.bhaskar.com/g/national/news/bengaluru-indiranagar-woman-hostage-robbery-cctv-footage-prabhuraj-139578977.html",
+      "published": "Tue, 03 Nov 2026 09:17:37 +0000",
+      "collected_at": "2026-11-03T19:30:27.401023+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "66df09c340326e72409e",
+      "title": "&#039;शर्म आना चाह‍िए, इतना गंदा काम क‍िया&#039;, सड़क ठेकेदार पर भड़के गडकरी",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/india/politics/video/nitin-gadkari-reprimands-contractor-over-poor-road-construction-quality-vdoj-ytvd-2687334-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T14:33:07+05:30",
+      "collected_at": "2026-11-03T19:30:26.480896+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "cfec5c4711a5a1cdcdb5",
+      "title": "&#039;रमीज ने कई साल क‍ि‍या शोषण&#039;, KGMU मामले में पीड़िता के आरोप",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/crime/news/video/kgmu-conversion-case-victim-statement-reveals-details-against-dr-rameez-vdoj-ytvd-2687283-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T14:23:08+05:30",
+      "collected_at": "2026-11-03T19:30:26.480882+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "c4a06c6d4e668a076dcc",
+      "title": "दीया मिर्जा के वीडियो विवाद पर बॉम्बे हाईकोर्ट नाराज, जानें मामला",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/india/maharashtra/video/bombay-high-court-objects-to-removal-of-dia-mirza-pollution-video-by-bmc-vdoj-ytvd-2687310-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T14:13:31+05:30",
+      "collected_at": "2026-11-03T19:30:26.480891+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "28d164e840c083b497f2",
+      "title": "दिवाली पर 2 कप बेसन से बनाएं हलवाई जैसा पतीसा, आसान है रेसिपी",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/lifestyle/kitchen/story/how-to-make-soft-halwai-jaisa-patisa-recipe-at-home-for-diwali-ghar-patisa-kaise-banaye-easy-tricks-tvisx-dskc-2685179-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T13:40:53+05:30",
+      "collected_at": "2026-11-03T19:30:26.481046+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "4e79cc6bafed73641cc1",
+      "title": "समंदर के सहारे ही समुद्र के खतरे को कम कर रहा फिलीपींस",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/science/photo/philippine-island-fights-rising-seas-with-nature-not-concrete-2687269-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T13:36:01+05:30",
+      "collected_at": "2026-11-03T19:30:26.481235+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "78aac328fce6f5e49a9f",
+      "title": "नेपाल: आपस में टकराए लैंडिंग करते 2 हेलि‍कॉप्टर, वीड‍ियो आया सामने",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/world/video/two-helicopters-collide-during-landing-in-nepal-killing-one-indian-national-vdoj-ytvd-2687226-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T13:35:31+05:30",
+      "collected_at": "2026-11-03T19:30:26.480877+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "052a835803beea8b5845",
+      "title": "मुंबई से गोरखपुर आने वाली फ्लाइट कैंसिल...रनवे पर लेटे यात्री:बोले-सोचा नहीं था कि यहां रात गुजारनी पड़ेगी",
+      "source_name": "दैनिक भास्कर - राष्ट्रीय",
+      "source_url": "https://www.bhaskar.com/rss-v1--category-1061.xml",
+      "url": "https://www.bhaskar.com/g/local/uttar-pradesh/gorakhpur/news/spicejet-flight-cancel-mumbai-gorakhpur-passengers-runway-protest-video-139578371.html",
+      "published": "Tue, 03 Nov 2026 08:04:16 +0000",
+      "collected_at": "2026-11-03T19:30:27.401083+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "2043ed0ad358972db481",
+      "title": "मोदी बोले-पहले गरीबी खत्म करने के वादे होते थे:अब जमीनी स्तर पर काम हो रहा; ₹21 हजार करोड़ की पुणे मेट्रो परियोजनाओं का उद्घाटन किया",
+      "source_name": "दैनिक भास्कर - राष्ट्रीय",
+      "source_url": "https://www.bhaskar.com/rss-v1--category-1061.xml",
+      "url": "https://www.bhaskar.com/g/national/news/pune-metro-project-launch-pm-modi-inauguration-infrastructure-update-139578238.html",
+      "published": "Tue, 03 Nov 2026 07:48:40 +0000",
+      "collected_at": "2026-11-03T19:30:27.401028+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "9b8669af5671408e648c",
+      "title": "फ्लोरिडा विमान हादसा: हादसे से ठीक पहले क्रू मेंबर एयर ट्रैफ़िक कंट्रोल से लगा रहे थे ये गुहार",
+      "source_name": "BBC News हिंदी",
+      "source_url": "https://feeds.bbci.co.uk/hindi/rss.xml",
+      "url": "https://www.bbc.com/hindi/articles/c5zjxl0z3nryo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 07:12:16 GMT",
+      "collected_at": "2026-11-03T19:30:27.043601+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "7177baafc84aeb68dae4",
+      "title": "रिपोर्ट- दिल्ली में सभी तरह के पटाखे बिक रहे:सुप्रीम कोर्ट का सरकार को जांच का आदेश; दिवाली पर सिर्फ ग्रीन पटाखे फोड़ने की परमिशन",
+      "source_name": "दैनिक भास्कर - राष्ट्रीय",
+      "source_url": "https://www.bhaskar.com/rss-v1--category-1061.xml",
+      "url": "https://www.bhaskar.com/g/national/news/delhi-firecracker-ban-violation-supreme-court-investigation-news-139577950.html",
+      "published": "Tue, 03 Nov 2026 07:11:32 +0000",
+      "collected_at": "2026-11-03T19:30:27.401013+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "10426a0144fa2c043825",
+      "title": "इंस्टाग्राम पर लड़की बनकर बुलाया, फिर किया 17 साल के अभिराम का मर्डर",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/crime/news/story/kerala-thiruvananthapuram-17-year-old-boy-murder-sreekaryam-instagram-pvzs-rpti-2687131-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T12:26:36+05:30",
+      "collected_at": "2026-11-03T19:30:26.480985+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "cda6c021b12dea70b3c5",
+      "title": "दीपोत्सव 2026: अयोध्या में सरयू के तट पर सांस्कृतिक संगम का उजाला",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/opinion-analysis-/story/ayodhya-deepotsav-2026-international-ramleela-cultural-confluence-ntcpsc-utrath-dskc-2687157-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T12:25:58+05:30",
+      "collected_at": "2026-11-03T19:30:26.481299+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "7b43b8895fad1003f3ad",
+      "title": "हाईकोर्ट बोला- भारत धर्मनिरपेक्ष देश:BMC दीया मिर्जा का दिवाली वीडियो दोबारा अपलोड करे; एक्ट्रेस ने ग्रीन पटाखे जलाने की अपील की थी",
+      "source_name": "दैनिक भास्कर - राष्ट्रीय",
+      "source_url": "https://www.bhaskar.com/rss-v1--category-1061.xml",
+      "url": "https://www.bhaskar.com/g/national/news/bombay-highcourt-bmc-diya-mirza-diwali-video-controversy-upload-139577807.html",
+      "published": "Tue, 03 Nov 2026 06:55:05 +0000",
+      "collected_at": "2026-11-03T19:30:27.401018+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "ef8f9beccbacfe8cf84e",
+      "title": "रात तक कमजोर होगा तूफान मुरासु, आंध्र के तटीय इलाकों में तबाही",
+      "source_name": "आज तक - मुख्य समाचार",
+      "source_url": "https://www.aajtak.in/rssfeeds?id=home",
+      "url": "https://www.aajtak.in/science/story/murasu-to-weaken-by-night-devastation-in-coastal-areas-of-andhra-dskc-2687140-2026-11-03?utm_source=rssfeed",
+      "published": "2026-11-03T12:22:42+05:30",
+      "collected_at": "2026-11-03T19:30:26.481240+00:00",
+      "language": "hi"
+    },
     {
       "id": "6796470331a8aa4cdfd9",
       "title": "ईरानी ने 20 क्रू मेंबर्स को सुरक्षित बचाने के लिए भारत का जताया आभार",
@@ -22,6 +1162,16 @@
       "url": "https://www.aajtak.in/entertainment/television/story/ramayan-fame-aslam-khan-played-11-roles-ramanand-sagar-still-away-from-limelight-doing-marketing-job-tmovh-dskc-2686948-2026-11-03?utm_source=rssfeed",
       "published": "2026-11-03T12:16:27+05:30",
       "collected_at": "2026-11-03T06:50:17.456671+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "b0b9ac7ad2bad6999816",
+      "title": "बिहार सरकार-केंद्र के बीच एमओयू साइन:4 बड़ी परियोजनाओं के लिए 49,751 करोड़ की डिमांड; नदियों की गाद से बनेगी सड़क, बाढ़ की समस्या कम करने की पहल",
+      "source_name": "दैनिक भास्कर - राष्ट्रीय",
+      "source_url": "https://www.bhaskar.com/rss-v1--category-1061.xml",
+      "url": "https://www.bhaskar.com/g/local/bihar/patna/news/bihar-flood-control-road-construction-nitin-gadkari-samrat-chaudhary-139577714.html",
+      "published": "Tue, 03 Nov 2026 06:45:49 +0000",
+      "collected_at": "2026-11-03T19:30:27.401077+00:00",
       "language": "hi"
     },
     {
@@ -165,6 +1315,16 @@
       "language": "hi"
     },
     {
+      "id": "23e62fd8dcfebaf65ba2",
+      "title": "उत्तरकाशी के केदारताल में लापता 2 ट्रैकरों के शव मिले:एक पुरुष और एक महिला शामिल; 6 की तलाश जारी, बंगाल CM ने जताई चिंता",
+      "source_name": "दैनिक भास्कर - राष्ट्रीय",
+      "source_url": "https://www.bhaskar.com/rss-v1--category-1061.xml",
+      "url": "https://www.bhaskar.com/local/uttarakhand/uttarkashi/news/uttarkashi-kedartal-trekker-missing-rescue-operation-update-139577482.html",
+      "published": "Tue, 03 Nov 2026 06:13:26 +0000",
+      "collected_at": "2026-11-03T19:30:27.401098+00:00",
+      "language": "hi"
+    },
+    {
       "id": "41eb893541df55a40942",
       "title": "'भैया दूज तक रैलियां और प्रदर्शन न हो': सीटीआई ने पुलिस कमिश्नर को लिखा पत्र, 14 हजार करोड़ के नुकसान का दावा",
       "source_name": "अमर उजाला - एडिटर पिक",
@@ -285,6 +1445,16 @@
       "language": "hi"
     },
     {
+      "id": "6f40f114eafec5eb281e",
+      "title": "असम सरकार के बड़े फैसले: बहुविवाह करने पर छिनेगी सरकारी नौकरी, बाढ़ की वजह तलाशने के लिए सीबीआई जांच की तैयार",
+      "source_name": "अमर उजाला - एडिटर पिक",
+      "source_url": "https://www.amarujala.com/rss/editors-pick.xml",
+      "url": "https://www.amarujala.com/india-news/preparations-to-implement-ucc-in-assam-intensify-government-jobs-to-be-forfeited-for-practicing-polygamy-2026-11-03",
+      "published": "Tue, 03 Nov 2026 11:26:55 +0530",
+      "collected_at": "2026-11-03T19:30:25.193614+00:00",
+      "language": "hi"
+    },
+    {
       "id": "d5fe1ba19a36c181443b",
       "title": "सबसे सस्ती Harley लॉन्च, 34KM का माइलेज, कीमत इतनी",
       "source_name": "आज तक - मुख्य समाचार",
@@ -322,6 +1492,26 @@
       "url": "https://www.aajtak.in/business/real-estate/story/deepinder-goyal-gurugram-luxury-apartment-price-140-crore-ntcpsc-dskc-2687090-2026-11-03?utm_source=rssfeed",
       "published": "2026-11-03T11:15:40+05:30",
       "collected_at": "2026-11-03T06:50:17.456739+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "23fb43b2fad349441a98",
+      "title": "RSS में संगठनात्मक बदलाव की तैयारी, मालवा प्रांत होंगे खत्म:इंदौर-उज्जैन के अलग संभाग बनाने पर मंथन; देशभर में 1600 तक हो सकते हैं जिले",
+      "source_name": "दैनिक भास्कर - राष्ट्रीय",
+      "source_url": "https://www.bhaskar.com/rss-v1--category-1061.xml",
+      "url": "https://www.bhaskar.com/g/local/mp/indore/news/rss-meeting-indore-organizational-changes-gen-z-expansion-update-139577291.html",
+      "published": "Tue, 03 Nov 2026 05:41:58 +0000",
+      "collected_at": "2026-11-03T19:30:27.401073+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "0e0b6658ffcfbf6f538f",
+      "title": "दीया मिर्जा का दिवाली विवाद: एक्ट्रेस के समर्थन में आया विपक्ष, भाजपा पर साधा निशाना; कोर्ट के फैसले को सराहा",
+      "source_name": "अमर उजाला - एडिटर पिक",
+      "source_url": "https://www.amarujala.com/rss/editors-pick.xml",
+      "url": "https://www.amarujala.com/entertainment/bollywood/dia-mirza-video-row-maharashtra-opposition-alleges-bmc-targeted-her-over-surname-2026-11-03",
+      "published": "Tue, 03 Nov 2026 11:07:49 +0530",
+      "collected_at": "2026-11-03T19:30:25.193597+00:00",
       "language": "hi"
     },
     {
@@ -412,6 +1602,26 @@
       "url": "https://www.aajtak.in/entertainment/news/photo/pakistani-actor-omer-shahzad-welcomes-son-first-glimpse-reveal-name-ismail-wife-cried-24-hours-labour-pain-makkah-tmovf-2687041-2026-11-03?utm_source=rssfeed",
       "published": "2026-11-03T10:56:54+05:30",
       "collected_at": "2026-11-03T06:50:17.457006+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "c2bc58fcd14aa9378c42",
+      "title": "न्यूजीलैंड में भारत का वनडे रिकॉर्ड कैसा?: 45 मैचों में कितने मैच जीते, सचिन-कुंबले के नाम ये उपलब्धियां दर्ज",
+      "source_name": "अमर उजाला - एडिटर पिक",
+      "source_url": "https://www.amarujala.com/rss/editors-pick.xml",
+      "url": "https://www.amarujala.com/cricket/cricket-news/india-vs-new-zealand-odi-record-sachin-tendulkar-anil-kumble-records-2026-11-03",
+      "published": "Tue, 03 Nov 2026 10:56:45 +0530",
+      "collected_at": "2026-11-03T19:30:25.193634+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "03d585c840e08584fc25",
+      "title": "दिल्ली के कई इलाकों में भीषण जाम: त्योहारी सीजन की धूम, खरीदारी के लिए उमड़ी भीड़; रेंगने को मजबूर गाड़ियां",
+      "source_name": "अमर उजाला - एडिटर पिक",
+      "source_url": "https://www.amarujala.com/rss/editors-pick.xml",
+      "url": "https://www.amarujala.com/delhi-ncr/traffic-jams-in-many-parts-of-delhi-2026-11-03",
+      "published": "Tue, 03 Nov 2026 10:55:37 +0530",
+      "collected_at": "2026-11-03T19:30:25.193608+00:00",
       "language": "hi"
     },
     {
@@ -535,6 +1745,16 @@
       "language": "hi"
     },
     {
+      "id": "b42729ddbd11a517e826",
+      "title": "दिल्ली: इंडिया ब्लॉक की रैली के बाद 22 प्रदर्शनकारियों पर एफआईआर, इस वजह से पुलिस ने की कार्रवाई",
+      "source_name": "अमर उजाला - एडिटर पिक",
+      "source_url": "https://www.amarujala.com/rss/editors-pick.xml",
+      "url": "https://www.amarujala.com/delhi-ncr/fir-registered-against-22-protesters-following-the-india-bloc-rally-2026-11-03",
+      "published": "Tue, 03 Nov 2026 10:28:39 +0530",
+      "collected_at": "2026-11-03T19:30:25.193624+00:00",
+      "language": "hi"
+    },
+    {
       "id": "4ead5bf41ba33245eb48",
       "title": "धनतेरस पर क्या खरीदें और क्या नहीं? देखें शुभ-अशुभ चीजों की लिस्ट",
       "source_name": "आज तक - मुख्य समाचार",
@@ -595,6 +1815,16 @@
       "language": "hi"
     },
     {
+      "id": "37eb4c9cb573607fad60",
+      "title": "लखनऊ में शिवराज सिंह बोले-अखिलेश बाबू फरवरी में निपट जाओगे:मोदी भगवान का वरदान, ऐसे नारे लगाइए कि राहुल कांप जाएं",
+      "source_name": "दैनिक भास्कर - राष्ट्रीय",
+      "source_url": "https://www.bhaskar.com/rss-v1--category-1061.xml",
+      "url": "https://www.bhaskar.com/g/local/uttar-pradesh/lucknow/news/lucknow-bjp-padayatra-shivraj-singh-chauhan-loktantra-bachao-rally-139576793.html",
+      "published": "Tue, 03 Nov 2026 04:23:26 +0000",
+      "collected_at": "2026-11-03T19:30:27.401103+00:00",
+      "language": "hi"
+    },
+    {
       "id": "c52e3aba32fc3701a5de",
       "title": "प्रोटेस्ट कर रहे ACP सस्पेंड, अपने महकमे के खिलाफ आवाज उठाना पड़ा भारी!",
       "source_name": "आज तक - मुख्य समाचार",
@@ -602,6 +1832,16 @@
       "url": "https://www.aajtak.in/india/delhi/story/delhi-police-protest-headquarters-acp-manasvi-vashishtha-suspended-ntc-amkr-dskc-2687046-2026-11-03?utm_source=rssfeed",
       "published": "2026-11-03T09:46:51+05:30",
       "collected_at": "2026-11-03T06:50:17.456935+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "cdc55021283696fbf4e5",
+      "title": "वोट चोरी के खिलाफ सपा की रणनीति: अखिलेश ने मतदान के दिन का मांगा लाइव सीसीटीवी लिंक, आयोग के सामने रखी मांग",
+      "source_name": "अमर उजाला - एडिटर पिक",
+      "source_url": "https://www.amarujala.com/rss/editors-pick.xml",
+      "url": "https://www.amarujala.com/lucknow/up-akhilesh-yadav-said-that-the-candidates-should-be-given-the-link-of-the-booth-s-cctv-on-the-day-of-voting-2026-11-03",
+      "published": "Tue, 03 Nov 2026 09:43:09 +0530",
+      "collected_at": "2026-11-03T19:30:25.193629+00:00",
       "language": "hi"
     },
     {
@@ -692,6 +1932,16 @@
       "url": "https://www.aajtak.in/uttar-pradesh/story/shraddha-torture-shiva-put-off-his-clothes-and-pant-with-lipstick-horrifying-torture-story-lucknow-case-lcly-rptc-2687026-2026-11-03?utm_source=rssfeed",
       "published": "2026-11-03T09:13:27+05:30",
       "collected_at": "2026-11-03T06:50:17.457038+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "50997a2253e68323dbd4",
+      "title": "आज का शब्द: स्थूल और अज्ञेय की कविता- मैं तुम्हें सम्पूर्णत: जान गया हूँ",
+      "source_name": "अमर उजाला - एडिटर पिक",
+      "source_url": "https://www.amarujala.com/rss/editors-pick.xml",
+      "url": "https://www.amarujala.com/kavya/shabd-sangrah/aaj-ka-shabd-sthool-agyeya-ki-kavita-main-tumhe-sampurnatah-jaan-gaya-hun-2026-11-03",
+      "published": "Tue, 03 Nov 2026 09:09:24 +0530",
+      "collected_at": "2026-11-03T19:30:25.193639+00:00",
       "language": "hi"
     },
     {

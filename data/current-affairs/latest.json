@@ -2,8 +2,18 @@
   "section": "current-affairs",
   "name": "चालू घटनाएँ",
   "language": "hi",
-  "updated_at": "2026-11-03T06:50:21.767379+00:00",
+  "updated_at": "2026-11-03T19:30:31.635856+00:00",
   "items": [
+    {
+      "id": "047d66ef5f59d1e24122",
+      "title": "अतिक्रमण मामले में BMC चीफ को झटका, सुप्रीम कोर्ट ने रोकी नवंबर की तनख्वाह, जानें पूरा मामला",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/setback-for-bmc-chief-in-encroachment-case-supreme-court-halts-his-november-salary-know-full-matter-201793728448142.html",
+      "published": "Tue, 03 Nov 2026 23:47:56 +0530",
+      "collected_at": "2026-11-03T19:30:30.482082+00:00",
+      "language": "hi"
+    },
     {
       "id": "4c6107583ab6d63b6841",
       "title": "सुनेत्रा पवार से बढ़ती दूरियां या पार्थ की दखलंदाजी? अमित शाह के दरबार में क्यों गए करीबी नेता",
