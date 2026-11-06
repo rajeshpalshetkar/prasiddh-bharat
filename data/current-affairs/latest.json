@@ -2,8 +2,38 @@
   "section": "current-affairs",
   "name": "चालू घटनाएँ",
   "language": "hi",
-  "updated_at": "2026-11-05T19:58:32.290152+00:00",
+  "updated_at": "2026-11-06T19:26:11.991151+00:00",
   "items": [
+    {
+      "id": "f1d815911c9e1ee4b5dd",
+      "title": "पुलिस भर्ती के लिए फर्जी सर्टिफिकेट बनाने वालों का किया भंडाफोड़, अब फंदे से लटका मिला शव",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/maharashtra/whistleblower-deadbody-found-hanging-police-bharti-fraud-201793957056225.html",
+      "published": "Fri, 06 Nov 2026 15:10:07 +0530",
+      "collected_at": "2026-11-06T19:26:10.996512+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "dcda3fbbefee27250cbe",
+      "title": "महाराष्ट्र में क्यों नहीं बिक रही Old Monk? रम के नाम पर फंसा पेच, कंपनी ने वापस ली याचिका",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/why-old-monk-sale-ban-maharashtra-fssai-rum-flavour-controversy-explained-201793954725735.html",
+      "published": "Fri, 06 Nov 2026 14:19:42 +0530",
+      "collected_at": "2026-11-06T19:26:10.996527+00:00",
+      "language": "hi"
+    },
+    {
+      "id": "6ca5aea7433fa2e6d1f6",
+      "title": "किसानों के आंदोलन से थमा NH-48, 1500 ट्रक फंसे; दिवाली पर घर जाने वालों की बढ़ी मुसीबत",
+      "source_name": "लाइव हिन्दुस्तान - महाराष्ट्र",
+      "source_url": "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+      "url": "https://www.livehindustan.com/national/maharashtra-sugarcane-farmers-protest-nh48-1500-trucks-stranded-201793950247873.html",
+      "published": "Fri, 06 Nov 2026 13:06:40 +0530",
+      "collected_at": "2026-11-06T19:26:10.996534+00:00",
+      "language": "hi"
+    },
     {
       "id": "047d66ef5f59d1e24122",
       "title": "अतिक्रमण मामले में BMC चीफ को झटका, सुप्रीम कोर्ट ने रोकी नवंबर की तनख्वाह, जानें पूरा मामला",
